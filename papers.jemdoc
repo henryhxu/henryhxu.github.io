@@ -1,0 +1,140 @@
+# jemdoc: menu{MENU}{papers.html}, notime
+= Publications
+
+
+Email me if you are interested in the preprints that are not available online.
+
+== Preprints
+
+. [http://arxiv.org/abs/1312.3455 Low Latency Datacenter Networking: A Short Survey]\n
+Shuhao Liu, Hong Xu, Zhiping Cai
+. [share/hxu-admm.pdf An Alternating Direction Method Approach to Cloud Traffic Management]\n
+Chen Feng, Hong Xu, Baochun Li
+. [ Temperature Aware Workload Management in Geo-distributed Datacenters] \n
+Hong Xu, Chen Feng, Baochun Li 
+. [http://arxiv.org/abs/1309.6422 Spot Transit: Cheaper Internet Transit for Elastic Traffic]\n
+Hong Xu, Baochun Li  
+
+
+== Conference and workshop proceedings
+=== Datacenters and cloud computing
+. [http://arxiv.org/abs/1307.5442 Reducing Electricity Demand Charge for Data Centers with Partial Execution]\n
+Hong Xu, Baochun Li\n
+Proc.~ACM International Conference on Future Energy Systems *(ACM e-Energy)*, 2014.
+. [ TinyFlow: Breaking Elephants Down Into Mice in Data Center Networks]\n
+Hong Xu, Baochun Li\n 
+Proc.~IEEE International Workshop on Local and Metropolitan Area Networks *(IEEE LANMAN)*, 2014.
+. [share/hxu-infocom14.pdf RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers]\n
+Hong Xu, Baochun Li\n 
+Proc.~IEEE Conference on Computer Communications *(IEEE INFOCOM)*, 2014. \n
+(Acceptance rate: 19.4%)
+. [ Security-aware Virtual Network Embedding]\n
+Shuhao Liu, Zhiping Cai, Hong Xu, Ming Xu\n
+Proc. IEEE International Conference on Communications *(ICC)*, 2014.
+. [ Carbon-aware Load Balancing for Geo-distributed Cloud Services]\n
+Zhi Zhou, Fangming Liu, Yong Xu, Ruolan Zou, Hong Xu, John C.S. Lui, Hai Jin\n
+Proc.~IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems *(MASCOTS)*, 2013. \n
+. [share/hxu-icac13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters]\n
+Hong Xu, Chen Feng, Baochun Li\n 
+Proc.~USENIX International Conference on Autonomic Computing *(ICAC)*, 2013. \n
+(Acceptance rate: 21\%)
+. [share/hxu-sigmetrics13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters]\n
+Hong Xu, Chen Feng, Baochun Li\n 
+Proc.~ACM International Conference on Measurement and Modeling of Computer Systems *(SIGMETRICS)*, Extended Abstract, 2013.
+. [share/hxu-infocom13.pdf Joint Request Mapping and Response Routing for Geo-distributed Cloud Services]\n
+Hong Xu, Baochun Li\n
+Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2013. \n
+(Acceptance rate: 17\%)
+. [share/hxu-iccc12.pdf Cost Efficient Datacenter Selection for Cloud Services]\n
+Hong Xu, Baochun Li\n 
+Proc.~IEEE International Conference on Communications in China *(ICCC)*, 2012.
+. [share/hxu-cloud12.pdf A General and Practical Datacenter Selection Framework for Cloud Services]\n
+Hong Xu, Baochun Li\n 
+Proc.~IEEE International Conference on Cloud Computing *(IEEE CLOUD)*, 2012. \n
+(Acceptance rate: 17%. Top 1 most accessed articles of the proceedings in December 2012.)
+. [share/hxu-icc12.pdf Maximizing Revenue with Dynamic Cloud Pricing: The Infinite Horizon Case]\n
+Hong Xu, Baochun Li\n 
+Proc.~IEEE International Conference on Communications *(ICC)*, 2012. 
+. [share/hxu-infocom12.pdf Quality-Assured Cloud Bandwidth Auto-Scaling for Video-on-Demand Applications]\n
+Di Niu, Hong Xu, Baochun Li, Shuqiao Zhao\n 
+Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2012.\n 
+(Acceptance rate: 18\%)
+. [share/hxu-mm11.pdf Risk Management for Video-on-Demand Servers Leveraging Demand Forecast]\n
+Di Niu, Hong Xu, Baochun Li, Shuqiao Zhao. \n 
+Proc.~ACM International Conference on Multimedia *(MM)*, 2011, short paper.
+. [share/hxu-infocom11.pdf Seen As Stable Marriages] \n
+Hong Xu, Baochun Li\n
+Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, mini-conference, 2011.\n
+(Acceptance rate: 23\%)
+. [share/hxu-cloudwks11.pdf Egalitarian Stable Matching for VM Migration in Cloud Computing]\n
+Hong Xu, Baochun Li\n
+IEEE INFOCOM Workshop on Cloud Computing, 2011.
+
+=== Resource allocation in wireless networks
+. [share/hxu-infocom10.pdf Efficient Resource Allocation with Flexible Channel Cooperation in OFDMA Cognitive Radio Networks]\n
+Hong Xu, Baochun Li\n
+Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2010.\n 
+(Acceptance rate: 17\%)
+. [share/hxu-infocom10-mini.pdf A Secondary Market for Spectrum]\n
+Hong Xu, Jin Jin, Baochun Li\n
+Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, mini-conference, 2010. \n
+(Acceptance rate: 24\%)
+. [share/hxu-infocom10-multicast.pdf Multicast Scheduling with Cooperation and Network Coding in Cognitive Radio Networks]\n
+Jin Jin, Hong Xu, Baochun Li\n
+Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2010. \n
+(Acceptance rate: 17\%. Top 3 most accessed articles of the proceedings in December 2012.)
+. [share/hxu-icc10.pdf A Channel Portfolio Optimization Framework for Trading in a Spectrum Secondary Market] \n
+Hong Xu, Jin Jin, Baochun Li\n
+Proc.~IEEE International Conference on Communications *(ICC)*, 2010.
+. [share/hxu-infocom09.pdf XOR-Assisted Cooperative Diversity in OFDMA Wireless Networks: Optimization Framework and Approximation Algorithms]\n
+Hong Xu, Baochun Li\n
+Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2009. \n
+(Acceptance rate: 20\%)
+. [share/hxu-globecom11.pdf YMMV: Multiple Session Multicast with MIMO] \n
+Hong Xu, Jin Jin, Baochun Li\n
+Proc.~IEEE Global Communications Conference *(Globecom)*, 2011.
+
+
+== Journal publications
+. [share/hxu-tcc2013.pdf Dynamic Cloud Pricing for Revenue Maximization] \n
+Hong Xu, Baochun Li\n
+IEEE Transactions on Cloud Computing, 1(2):158--171, July--December 2013.
+. [ An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks]\n
+Hong Xu, Baochun Li \n
+IEEE Transactions on Mobile Computing, to appear.
+. [share/hxu-anchor.pdf /Anchor/: A Versatile and Efficient Framework for Resource Management in the Cloud] ([share/hxu-anchor-supplementary.pdf Supplementary material])\n
+Hong Xu, Baochun Li \n
+IEEE Transactions on Parallel and Distributed Systems, Special Issue on Cloud Computing, 24(6):1066--1076, June 2013. 
+. [share/hxu-tmc12-main.pdf Resource Allocation with Flexible Channel Cooperation in Cognitive Radio Networks] ([share/hxu-tmc12-appendix.pdf Supplementary material])\n
+Hong Xu, Baochun Li \n
+IEEE Transactions on Mobile Computing, 12(5):957--970, May 2013.
+. [share/hxu-PER13.pdf A Study of Pricing for Cloud Resources] \n
+Hong Xu, Baochun Li\n
+ACM SIGMETRICS Performance Evaluation Review, Special Issue on Cloud Computing, 40(4):3--12, March 2013.
+
+== Book chapters
+. [Network Coding in Relay-based Networks] 
+Hong Xu, Baochun Li\n
+In [http://www.cambridge.org/9780521767125 Cooperative Cellular Wireless Networks], Ekram Hossain, Dong In Kim, Vijay Bhargava, Editors, Cambridge University Press, pp. 324--344, ISBN 978-0-521-76712-5, Hardback, 2011.
+. [Network Coding in Bi-directed and Peer-to-Peer Networks] \n
+Zongpeng Li, Hong Xu, Baochun Li \n
+In [http://www.cambridge.org/9780521113687 Next-Generation Internet Architectures and Protocols], Byrav Ramamurthy, George Rouskas, Krishna Sivalingam, Editors, Cambridge University Press, pp. 359--377, ISBN 978-0-521-11368-7, Hardback, 2011
+
+
+
+#== PhD thesis
+#- Learning from noisy data with applications to filtering and denoising
+#-- Committee: [http://www.stanford.edu/~tsachy Tsachy Weissman], [http://www.stanford.edu/~cover Thomas M. Cover], [http://www.stanford.edu/~abbas Abbas El Gamal]
+
+
+#
+#jemdoc is free software; you can redistribute it and\/or modify it under the
+#terms of the [http://www.gnu.org/licenses/gpl-3.0.html GNU General Public
+#License] as published by the Free Software Foundation; either version 3 of the
+#License, or (at your option) any later version.
+#
+#jemdoc is distributed in the hope that it will be useful, but WITHOUT ANY
+#WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+#PARTICULAR PURPOSE. See the [http://www.gnu.org/licenses/gpl-3.0.html GNU
+#General Public License] for more details.
+

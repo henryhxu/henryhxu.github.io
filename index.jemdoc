@@ -1,0 +1,91 @@
+# jemdoc: menu{MENU}{index.html}, notime
+= Hong Xu, Henry
+
+~~~
+{}{img_left}{HongXU.jpg}{alt text}{WIDTHpx}{HEIGHTpx}
+
+
+Assistant Professor \n
+[http://www.cs.cityu.edu.hk/ Department of Computer Science] \n
+[http://www.cityu.edu.hk/ City University of Hong Kong]\n
+83 Tat Chee Avenue, Kowloon, Hong Kong \n
+
+#=== Contact
+
+Office: AC1 B6415 \n
+Office hours: Email me to set up a time and we can meet. \n
+Tel: \+852 3442 4840 \n
+Fax: \+852 3442 0503 (Attn.: Henry Xu) \n
+Email: henry.xu \[at\] cityu.edu.hk \n
+Web: [http://www.cs.cityu.edu.hk/~hxu ]
+
+[http://scholar.google.ca/citations?hl=en&user=BZHzIFIAAAAJ Google Scholar Citations] \n
+
+~~~
+
+== Research Interests
+
+
+My research interests include data center networking, data center energy efficiency, cloud computing, and computer systems. I focus on using mathematical modeling as well as building systems to explore and understand the design of large-scale computer systems. The overarching goal of my research is two-fold: improving performance, and reducing complexity, both defined broadly. I am also interested in network economics, and data mining/analytics. 
+
+== Students
+
+I am looking for graduate students and research assistants with strong interests and motivation to work on designing, building, and understanding networked systems, such as data centers. Students with hands-on systems building abilities (CS) and/or mathematical background (EE, math) are highly encouraged. Drop me an email if you are interested in working with me at CityU. But before that, you could probably use some little [students.html advice]. \n
+
+
+== News
+- 03/2014. Our group has one paper accepted to [http://conferences.sigcomm.org/eenergy/2014/ ACM e-Energy], the premier venue for future energy systems research.
+- 03/2014. I am invited to be a member of the advisory TPC of IEEE INFOCOM 2015.
+- Nov. 25, 2013, our paper [http://arxiv.org/abs/1307.7451 RepFlow] is accepted to IEEE INFOCOM 2014.
+- Nov. 7, 2013, our paper [share/hxu-tcc2013.pdf Dynamic Cloud Pricing for Revenue Maximization] is accepted to IEEE Transactions on Cloud Computing.
+- Aug. 9, 2013, our paper [ An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks] will appear in IEEE Transactions on Mobile Computing.
+
+
+#- Jul. 31, 2013, our paper [ Carbon-aware Load Balancing for Geo-distributed Cloud Services] is accepted to IEEE MASCOTS 2013.
+#- Apr. 18, 2013, our paper [share/hxu-icac13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters] is accepted as a full paper to USENIX ICAC 2013. 
+
+# - Feb. 8, 2013, our paper [share/hxu-sigmetrics13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters] is accepted as an extended abstract to ACM SIGMETRICS 2013.
+# - Jan. 31, 2013, I am serving as a TPC member of [http://www.ieee-cloudnet.org/ IEEE CloudNet] to be held in San Francisco in November 2013. 
+# - Dec. 31, 2012, an [share/hxu-PER13.pdf invited article on pricing in cloud computing] will appear in the ACM SIGMETRICS Performance Evaluation Review.
+# - Nov. 18, 2012, the [share/hxu-infocom13.pdf paper on workload management in geo-distributed datacenters] is accepted to IEEE INFOCOM 2013 main conference.
+# - Oct. 10, 2012, the [share/hxu-anchor.pdf Anchor] paper is accepted to IEEE Trans. Parallel and Distributed Systems, Special Issue on Cloud Computing.
+# - Sep. 30, 2012, new links added to the Links page.
+# - Sep. 27, 2012, new Projects page online.
+# - Aug. 3, 2012, new web site goes online. 
+
+#== Curriculum Vitae
+
+#[share/HongXU-CV.pdf CV] as of January 2014
+
+
+
+
+#~~~
+#Copyright \C 2012-2014 [henry.xu@cityu.edu.hk Hong Xu].
+#~~~
+
+#- $\mbox{\LaTeX}$ [latex.html equation support].
+#- [tables.html Table support].
+#- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
+#  single css file \+ your input file {{&rarr;}} html.
+#- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
+#  independent of jemdoc.
+#- Production of clean,
+#  [http://validator.w3.org/check/referer
+#  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
+#- Minimal bells and whistles, but simple fallback to raw html if required.
+
+
+
+
+#Copyright \C 2007--2011 Jacob Mattingley.
+#
+#jemdoc is free software; you can redistribute it and\/or modify it under the
+#terms of the [http://www.gnu.org/licenses/gpl-3.0.html GNU General Public
+#License] as published by the Free Software Foundation; either version 3 of the
+#License, or (at your option) any later version.
+#
+#jemdoc is distributed in the hope that it will be useful, but WITHOUT ANY
+#WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+#PARTICULAR PURPOSE. See the [http://www.gnu.org/licenses/gpl-3.0.html GNU
+#General Public License] for more details.

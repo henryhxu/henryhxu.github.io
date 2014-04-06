@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+			"folder_exclude_patterns": ["old", "share"],
+			"file_exclude_patterns":
+			[
+			"._*",
+			"*.html",
+			"*.zip",
+			"*.log",
+			"*.jpg",
+			"*.tar",
+			"*.tgz",
+			"*.aux",
+			"*.gz"
+			]
+		}
+	]
+}

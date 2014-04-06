@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{services.html}, notime
+= Professional activities
+
+== Conference TPC
+- IEEE INFOCOM, Advisory TPC, 2015
+- International Conference on Wireless Communications and Signal Processing (WCSP), 2014
+- International Conference on Network Games, Control and Optimization (NETGCOOP), 2014
+- IEEE CloudCom, 2014 
+- IEEE ICCC, 2014
+- IEEE CloudNet, 2014, 2013
+- GPC, 2014
+
+== Journals 
+
+Reviewers for ACM/IEEE Transactions on Networking, IEEE Journal on Selected Areas in Communications, IEEE Transaction on Mobile Computing, IEEE Transactions on Cloud Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, etc.
+
+== Community
+
+- Member, IEEE
+- Member, IEEE ComSoc
+- Member, ACM
+- Member, ACM SIGCOMM, ACM SIGMETRICS
+
+#- $\mbox{\LaTeX}$ [latex.html equation support].
+#- [tables.html Table support].
+#- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
+#  single css file \+ your input file {{&rarr;}} html.
+#- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
+#  independent of jemdoc.
+#- Production of clean,
+#  [http://validator.w3.org/check/referer
+#  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
+#- Minimal bells and whistles, but simple fallback to raw html if required.
+
+
+
+
+#Copyright \C 2007--2011 Jacob Mattingley.
+#
+#jemdoc is free software; you can redistribute it and\/or modify it under the
+#terms of the [http://www.gnu.org/licenses/gpl-3.0.html GNU General Public
+#License] as published by the Free Software Foundation; either version 3 of the
+#License, or (at your option) any later version.
+#
+#jemdoc is distributed in the hope that it will be useful, but WITHOUT ANY
+#WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+#PARTICULAR PURPOSE. See the [http://www.gnu.org/licenses/gpl-3.0.html GNU
+#General Public License] for more details.

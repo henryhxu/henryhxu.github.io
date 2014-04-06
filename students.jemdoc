@@ -1,0 +1,66 @@
+# jemdoc: menu{MENU}{students.html}, notime
+= To students
+
+== Advice: Mentality, mentality, mentality!
+
+
+Many students would ask me what they should do to prepare for the graduate study. Usually students want a list of papers or books to read; they consider this the most essential part of preparation. I must say that I disagree. I believe mentality (initiative, attitude, etc.) is much more important than any technical skills, and the same is true for all fields beyond sciences and engineering. With the right mentality, everything follows.
+
+The following article contains an excellent summary of advice for students (and even profs) to prepare their mentality for grad school. I just wish everyone could read it so that he/she doesn't have to learn the hard way.
+
+[http://www.cs.cmu.edu/~jasonh/ Jason Hong]. [http://cacm.acm.org/blogs/blog-cacm/157012-phds-from-the-facultys-perspective/fulltext PhDs from the Faculty's Perspective], Blog\@CACM, 2012.
+
+
+== If you think you have the mentality ...
+
+I am looking for graduate students and research assistants with strong interests and motivation to work on designing, building, and understanding networked systems, such as data centers. Students with hands-on systems building abilities (CS) and/or mathematical background (EE, math) are highly encouraged. Drop me an email if you are interested in working with me at CityU. \n
+
+CityU CS is ranked highly according to [http://www.topuniversities.com/university-rankings/university-subject-rankings/2013/computer-science-and-information-systems QS]. You can find more about our PhD program [http://www.sgs.cityu.edu.hk/prospective/rpg here], and Hong Kong PhD Fellowship Scheme [http://www.sgs.cityu.edu.hk/prospective/rpg/hkphd here].
+
+== Interesting links
+Some blogs and websites related to Computer Science research that I browse from time to time:
+
+- [http://greatresearch.org/ How to do great research], by Nick Feamster and Alexander Gray, CS, Georgia Tech.
+- [http://matt-welsh.blogspot.ca/ Matt Welsh], formerly a Harvard CS professor, now a Google software engineer
+- [http://www.mybiasedcoin.blogspot.ca/ Mike Mitzenmacher], CS, Harvard 
+- [http://databeta.wordpress.com/ Joe Hellerstein], CS, UC Berkeley
+- [http://www.allthingsdistributed.com/ Werner Vogels], CTO, Amazon.com 
+- [http://perspectives.mvdirona.com/ James Hamilton], Amazon Web Services Team
+- [http://sandeeptata.blogspot.ca/ Sandeep Tata], IBM Research
+- [http://www.joeweinman.com/, Joseph Weinman], Senior VP, Cloud Services and Strategy, Telx
+- [http://www.cs.ucla.edu/~palsberg/h-number.html The h-Index for Computer Science]
+- [http://www.datacenterknowledge.com/ DatacenterKnowledge.com]
+- [https://freedom-to-tinker.com Center for Information Technology Policy], Princeton University
+
+== Inspiring readings
+- [http://dl.acm.org/citation.cfm?id=2002252 The networking philosopher’s problem], SIGCOMM Computer Communication Review, 41(3), pp.5--9, July 2011
+- [http://dl.acm.org/citation.cfm?id=2002256 Architecting for innovation], SIGCOMM Computer Communication Review, 41(3), pp.24-36, July 2011.
+- [http://dl.acm.org/citation.cfm?id=1232926 Flow rate fairness: Dismantling a religion], SIGCOMM Computer Communication Review, 37(2), pp.63-74, March 2007.
+- [http://dl.acm.org/citation.cfm?id=231703 Pricing in computer networks: Reshaping the research agenda], SIGCOMM Computer Communication Review, 26(2), pp.19-43, 1996.
+- [http://dl.acm.org/citation.cfm?id=2316898 Fundamental design issues for the future Internet], IEEE Journal on Selected Areas in Communications, 13(7), pp.1176-1188, September 1995.
+
+#- $\mbox{\LaTeX}$ [latex.html equation support].
+#- [tables.html Table support].
+#- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
+#  single css file \+ your input file {{&rarr;}} html.
+#- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
+#  independent of jemdoc.
+#- Production of clean,
+#  [http://validator.w3.org/check/referer
+#  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
+#- Minimal bells and whistles, but simple fallback to raw html if required.
+
+
+
+
+#Copyright \C 2007--2011 Jacob Mattingley.
+#
+#jemdoc is free software; you can redistribute it and\/or modify it under the
+#terms of the [http://www.gnu.org/licenses/gpl-3.0.html GNU General Public
+#License] as published by the Free Software Foundation; either version 3 of the
+#License, or (at your option) any later version.
+#
+#jemdoc is distributed in the hope that it will be useful, but WITHOUT ANY
+#WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+#PARTICULAR PURPOSE. See the [http://www.gnu.org/licenses/gpl-3.0.html GNU
+#General Public License] for more details.
