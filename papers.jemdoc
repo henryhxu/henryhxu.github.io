@@ -22,13 +22,13 @@ Email me if you are interested in the preprints that are not available online.
 . [https://dl.acm.org/authorize?N46553 Aemon: Information-agnostic Mix-flow Scheduling in Data Center Networks]\n
 _Tao Wang_, Hong Xu, Fangming Liu\n
 APNet, 2017.\n
-. [ Bohr: Similarity Aware Geo-distributed Data Analytics] \n
+. [https://www.usenix.org/conference/hotcloud17/program/presentation/li Bohr: Similarity Aware Geo-distributed Data Analytics] \n
 _Hangyu Li_, Hong Xu, Sarana Nutanong\n
 USENIX HotCloud, 2017.\n
 . [ Towards Load-Balanced VNF Assignment in Geo-distributed NFV Infrastructure] \n
 Xincai Fei, Fangming Liu, Hong Xu, Hai Jin\n
 IEEE/ACM IWQoS, 2017.\n
-. [share/yu-turc17.pdf THOR: A Server-level Hybrid Switching Data Center Network with Heterogeneous Topologies] (*Best Paper Award*) \n
+. [https://dl.acm.org/authorize?N46554 THOR: A Server-level Hybrid Switching Data Center Network with Heterogeneous Topologies] (*Best Paper Award*) \n
 _Xiaoshan Yu_, Hong Xu, Huaxi Gu \n
 [http://china.acm.org/TURC/2017/SIGCOMM.html ACM TURC (Sigcomm China)], 2017.\n
 . [share/tao-icdcs17.pdf Multi-Resource Load Balancing for Virtual Network Functions] \n
@@ -42,7 +42,7 @@ Xi Wang, Simeng Bian, Ziyu Shao, Hong Xu\n
 IEEE ICC 2017.\n
 
 === 2016
-. [share/peng-socc16.pdf Expeditus: Distributed Congestion-aware Load Balancing in Clos Data Center Networks] \n
+. [https://dl.acm.org/authorize?N46565 Expeditus: Distributed Congestion-aware Load Balancing in Clos Data Center Networks] \n
 _Peng Wang_, Hong Xu, _Zhixiong Niu_, Dongsu Han, Yongqiang Xiong\n 
 *ACM SoCC* 2016.\n
 . [share/che-sarnoff16.pdf Kuijia: Traffic Rescaling in Data Center WANs]\n
@@ -79,7 +79,7 @@ ACM CoNEXT Student Workshop, 2014.\n
 . [share/jiaqi-conext14.pdf Minimizing Transient Congestion during Network Update in Data Centers]\n
 _Jiaqi Zheng_, Hong Xu, Guihai Chen, Haipeng Dai\n
 ACM CoNEXT Student Workshop, 2014.\n
-. [share/hxu-energy14.pdf Reducing Electricity Demand Charge for Data Centers with Partial Execution]\n
+. [https://dl.acm.org/authorize?N46566 Reducing Electricity Demand Charge for Data Centers with Partial Execution]\n
 Hong Xu, Baochun Li\n
 ACM e-Energy, 2014.\n
 . [share/hxu-lanman14.pdf TinyFlow: Breaking Elephants Down Into Mice in Data Center Networks]\n
@@ -100,7 +100,7 @@ IEEE MASCOTS, 2013. \n
 . [share/hxu-icac13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters]\n
 Hong Xu, Chen Feng, Baochun Li\n 
 USENIX ICAC, 2013. \n
-. [share/hxu-sigmetrics13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters]\n
+. [http://dl.acm.org/authorize?N19102 Temperature Aware Workload Management in Geo-distributed Datacenters]\n
 Hong Xu, Chen Feng, Baochun Li\n 
 ACM SIGMETRICS, Extended Abstract, 2013.
 . [share/hxu-infocom13.pdf Joint Request Mapping and Response Routing for Geo-distributed Cloud Services]\n
@@ -193,7 +193,7 @@ IEEE Transactions on Parallel and Distributed Systems, Special Issue on Cloud Co
 . [share/hxu-tmc12-main.pdf Resource Allocation with Flexible Channel Cooperation in Cognitive Radio Networks] ([share/hxu-tmc12-appendix.pdf Supplementary material])\n
 Hong Xu, Baochun Li \n
 IEEE Transactions on Mobile Computing, 12(5):957--970, May 2013.
-. [share/hxu-PER13.pdf A Study of Pricing for Cloud Resources] \n
+. [http://dl.acm.org/authorize?N19103 A Study of Pricing for Cloud Resources] \n
 Hong Xu, Baochun Li\n
 ACM SIGMETRICS Performance Evaluation Review, Special Issue on Cloud Computing, 40(4):3--12, March 2013.
 
