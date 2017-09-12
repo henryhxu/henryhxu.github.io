@@ -1,25 +1,45 @@
 # jemdoc: menu{MENU}{projects.html}, notime
 = Projects
 
+== Funding
+
+Currently supported by RGC (Research Grants Council, HK), Huawei, Amazon, and CityU Hong Kong.
+~~~
+{image}{raw}
+<div style="static: left; padding-left: 5px; padding-bottom: 15px; height: 40px; text-align: center;">
+<img alt="RGC" src="rgc.gif" align="left" height=60px style="PADDING-RIGHT: 15px;">
+<img alt="AWS" src="aws.png" align="left" height=60px style="PADDING-RIGHT: 15px;">
+<img alt="CityU HK" src="cityu.jpg" align="left" height=60px style="PADDING-RIGHT: 15px;">
+<img alt="Huawei" src="huawei.png" align="left" height=60px>
+</div>
+~~~
+
 == On-going projects
 
 If you are interested in any of the on-going projects, shoot me an email.
 
-=== [dcn.html Data center networking]
+=== Data center networking
 
-This project studies the *design and implementation* of new protocols for data center networks. Topics of interest include /low-latency networking/, /traffic engineering/, etc.
+This project studies the *design and implementation* of new protocols for data center networks. Topics of interest include low-latency networking, traffic engineering, etc.
 
 ~~~
+. [ Dynamic SDN Controller Assignment in Data Center Networks: Stable Matching with Transfers]\n
+Tao Wang, Fangming Liu, Jian Guo, Hong Xu \n
+IEEE INFOCOM 2016. \n
+. [share/jiaqi-icnp15.pdf Minimizing Transient Congestion during Network Update in Data Centers]\n
+Jiaqi Zheng, Hong Xu, Guihai Chen, Haipeng Dai\n
+Proc.~IEEE ICNP, 2015 (*Best Paper Award*). \n
+An [share/jiaqi-conext14.pdf extended abstract] has appeared in ACM CoNEXT Student Workshop, 2014.\n
+. [share/pwang-conext14.pdf Expeditus: Distributed Load Balancing with Global Congestion Information in Data Center Networks]\n
+Peng Wang, Hong Xu\n
+Proc.~ACM CoNEXT Student Workshop, 2014 (*Best Paper Award*).\n
 . [share/hxu-lanman14.pdf TinyFlow: Breaking Elephants Down Into Mice in Data Center Networks]\n
 Hong Xu, Baochun Li\n 
-Proc.~IEEE International Workshop on Local and Metropolitan Area Networks *(IEEE LANMAN)*, 2014.
+Proc.~IEEE LANMAN, 2014.
 . [share/hxu-infocom14.pdf RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers]\n
 Hong Xu, Baochun Li\n 
-Proc.~IEEE Conference on Computer Communications *(IEEE INFOCOM)*, 2014. \n
+Proc.~IEEE INFOCOM, 2014. \n
 (Acceptance rate: 19.4%)
-. [http://arxiv.org/abs/1312.3455 Low Latency Datacenter Networking: A Short Survey]\n
-Shuhao Liu, Hong Xu, Zhiping Cai\n
-Preprint
 ~~~
 
 === Distributed multi-facility resource allocation 
@@ -27,9 +47,9 @@ Preprint
 This project develops a general *optimization framework* for general multi-facility resource allocation problems commonly arisen in cloud computing. Topics include /distributed optimization algorithms/ based on the alternating direction method of multipliers (ADMM) and their /applications in data centers/.
 
 ~~~
-. [share/hxu-admm.pdf An Alternating Direction Method Approach to Cloud Traffic Management]\n
+. [http://arxiv.org/abs/1407.8309 An Alternating Direction Method Approach to Cloud Traffic Management]\n
 Chen Feng, Hong Xu, Baochun Li\n
-Preprint
+Preprint, 2015.
 ~~~
 
 === Energy efficient data centers
@@ -37,7 +57,10 @@ Preprint
 This project, from an *algorithmic perspective*, studies how to optimize data center operations to reduce their energy footprint and costs.
 
 ~~~
-. [http://arxiv.org/abs/1307.5442 Reducing Electricity Demand Charge for Data Centers with Partial Execution]\n
+. [ Carbon-aware Online Control of Geo-distributed Cloud Services]\n
+Zhi Zhou, Fangming Liu, Ruolan Zou, Jiangchuan Liu, Hong Xu, Hai Jin\n
+Preprint, 2015.
+. [share/hxu-energy14.pdf Reducing Electricity Demand Charge for Data Centers with Partial Execution]\n
 Hong Xu, Baochun Li\n
 Proc.~ACM International Conference on Future Energy Systems *(ACM e-Energy)*, 2014.
 . [ Carbon-aware Load Balancing for Geo-distributed Cloud Services]\n

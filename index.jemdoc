@@ -2,7 +2,7 @@
 = Hong Xu, Henry
 
 ~~~
-{}{img_left}{HongXU.jpg}{alt text}{WIDTHpx}{HEIGHTpx}
+{}{img_left}{Henry-CityU.jpg}{alt text}{WIDTHpx}{HEIGHTpx}
 
 
 Assistant Professor \n
@@ -12,33 +12,86 @@ Assistant Professor \n
 
 #=== Contact
 
-Office: AC1 B6415 \n
-Office hours: Email me to set up a time and we can meet. \n
+Office: AC1 B6415 (AC1 is now called Yeung Kin Man Academic Building) \n
+Office hours: Email me to set up a time. \n
 Tel: \+852 3442 4840 \n
 Fax: \+852 3442 0503 (Attn.: Henry Xu) \n
 Email: henry.xu \[at\] cityu.edu.hk \n
-Web: [http://www.cs.cityu.edu.hk/~hxu ]
+Web: [http://www.cs.cityu.edu.hk/~hxu]
 
 [http://scholar.google.ca/citations?hl=en&user=BZHzIFIAAAAJ Google Scholar Citations] \n
+
+*To prospective students:* I'm filtering all emails from *163.com* and *qq.com* \n
+due to the junk emails they send. Please use other emails to contact me.
 
 ~~~
 
 == Research Interests
 
+I work on computer networks and systems. I lead the [https://github.com/NETX-lab NetX Lab]. Welcome to visit us!
 
-My research interests include data center networking, data center energy efficiency, cloud computing, and computer systems. I focus on using mathematical modeling as well as building systems to explore and understand the design of large-scale computer systems. The overarching goal of my research is two-fold: improving performance, and reducing complexity, both defined broadly. I am also interested in network economics, and data mining/analytics. 
+# I focus on systems building and mathematical modeling to explore and understand the design of large-scale computer networks and networked systems. 
 
-== Students
+== Current Projects
 
-I am looking for graduate students and research assistants with strong interests and motivation to work on designing, building, and understanding networked systems, such as data centers. Students with hands-on systems building abilities (CS) and/or mathematical background (EE, math) are highly encouraged. Drop me an email if you are interested in working with me at CityU. But before that, you could probably use some little [students.html advice]. \n
+# - NetKernel, a framework that changes the network abstraction between guest and host, and provides highly flexible and efficient network stack as a service in the cloud
 
+- *Data center transport*, including load balancing, congestion control, and scheduling for high-bandwidth (100G) low-RTT (20 us) 
+
+- *NFV frameworks*, line-rate low-latency programmable packet processing with minimal resource footprint in a virtualized setting
+
+- *ML\/DA systems*, machine learning and data analytics are important, but system and deployment support of ML\/DA (resource allocation, scheduling) is often the bottleneck to real-world use
+
+# My current research interests include data center networking, NFV, and SDN. My recent projects focus on novel frameworks and protocols for high performance and programmable packet processing, network transport, and scheduling/resource allocation in networks and data analytics systems. 
+# I am also interested in network economics, and data mining and analytics.
+
+
+== Prospective Students
+
+\[*2017\/8 RA*\] I have 2 RA openings now. Please see [join.html here] for more information.
+
+I am always looking for bright PhD students to work with me. See [join.html here] for more information.
+
+== Top venues for networked systems
+
+I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulLwRAHrGG4TgatE7v1c/edit?usp=sharing list of top conferences/workshops for networked systems] sorted by their usual deadlines. 
 
 == News
-- 03/2014. Our group has one paper accepted to [http://conferences.sigcomm.org/eenergy/2014/ ACM e-Energy], the premier venue for future energy systems research.
-- 03/2014. I am invited to be a member of the advisory TPC of IEEE INFOCOM 2015.
-- Nov. 25, 2013, our paper [http://arxiv.org/abs/1307.7451 RepFlow] is accepted to IEEE INFOCOM 2014.
-- Nov. 7, 2013, our paper [share/hxu-tcc2013.pdf Dynamic Cloud Pricing for Revenue Maximization] is accepted to IEEE Transactions on Cloud Computing.
-- Aug. 9, 2013, our paper [ An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks] will appear in IEEE Transactions on Mobile Computing.
+
+- 06\/2017. Expeditus accepted to IEEE/ACM ToN.
+- 06\/2017. Aemon accepted to [http://conferences.sigcomm.org/events/apnet2017/index.html APNet'17].
+- 05\/2017. [share/yu-turc17.pdf THOR] received best paper award from [http://china.acm.org/TURC/2017/SIGCOMM.html ACM TURC 2017 (Sigcomm China)].
+- 04\/2017. One paper accepted to ACM/IEEE ToN.
+- 04/2017. Bohr accepted to HotCloud'17; another paper on NFV accepted to IWQoS'17.
+- 04/2017. Our journal paper on cloud video storage is accepted to ACM TOMPECS.
+- 03/2017. Our paper on multi-resource load balancing in NFV is accepted to [https://icdcs2017.gatech.edu/ ICDCS'17]. 
+- 02/2017. [ NetKernel] is accepted as a poster at [https://www.usenix.org/conference/nsdi17 NSDI'17]. Check us out at Boston!
+- 01/2017. I am serving as the travel grants co-chair of [http://iqua.ece.toronto.edu/icnp17/ IEEE ICNP'17]. Please submit!
+- 01/2017. Our paper on an optimization framework for solving cloud traffic management problems is accepted to TPDS.
+- 01/2017. I am serving as the poster co-chair of [http://conferences.sigcomm.org/events/apnet2017/ ACM APNet'17]. Please submit!
+- 01/2017. I am serving on the PC of [https://www.usenix.org/conference/hotcloud17 ACM HotCloud'17]. Please submit!
+- 09/2016. I am serving on the PC of [http://china.acm.org/ACAC/2017/SIGCOMM.html ACM SIGCOMM China 2017]. Please submit!
+# - 07/2016. One paper accepted to ACM SoCC 2016.
+# - 07/2016. One full paper and one poster paper accepted to IEEE ICNP 2016.
+# - 06/2016. One paper accepted to ACM APSys 2016.
+# - 06/2016. One paper accepted to IEEE MASS 2016.
+# - 05/2016. We're organizing a new workshop, [http://networkml.github.io/ NetworkML 2016], co-located with IEEE ICNP 2016. Please submit!
+# - 04/2016. We have one paper accepted to IEEE\/ACM IWQoS 2016, and one poster accepted to USENIX ATC 2016.
+# - 01/2016. I am serving as the publication chair of [http://www.cs.hku.hk/apsys2016/ ACM APSys 2016] and a PC member of [http://netsys17.uni-goettingen.de/ NetSys 2017]. Please submit!
+# - 11/2015. We have one paper accepted to IEEE INFOCOM 2016.
+# - 11/2015. We received the Best Paper Award from IEEE ICNP 2015! 
+# - 10/2015. I am serving on the shadow PC of EuroSys 2016. Please submit!
+# - 06/2015. We have one paper accepted to IEEE ICNP 2015.
+# - 03/2015. I am serving on the TPC of INFOCOM 2016.
+# - 12/2014. We received another AWS in Education Grant award from Amazon for teaching cloud computing.
+# - 11/2014. We received the Best Paper Award of the ACM CoNEXT 2014 Student Workshop.
+# - 10/2014. My PhD student Peng received a travel grant to attend ACM CoNEXT in Sydney, Australia.
+# - 10/2014. Our group has two papers accepted to [http://conferences2.sigcomm.org/co-next/2014/Workshops/StudentWorkshop/index.html ACM CoNEXT Student Workshop]. Congratulations Peng and Jiaqi!
+# - 03/2014. Our group has one paper accepted to [http://conferences.sigcomm.org/eenergy/2014/ ACM e-Energy], the premier venue for future energy systems research.
+# - 03/2014. I am invited to be a member of the advisory TPC of IEEE INFOCOM 2015.
+# - Nov. 25, 2013, our paper [http://arxiv.org/abs/1307.7451 RepFlow] is accepted to IEEE INFOCOM 2014.
+# - Nov. 7, 2013, our paper [share/hxu-tcc2013.pdf Dynamic Cloud Pricing for Revenue Maximization] is accepted to IEEE Transactions on Cloud Computing.
+# - Aug. 9, 2013, our paper [ An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks] will appear in IEEE Transactions on Mobile Computing.
 
 
 #- Jul. 31, 2013, our paper [ Carbon-aware Load Balancing for Geo-distributed Cloud Services] is accepted to IEEE MASCOTS 2013.
@@ -61,7 +114,7 @@ I am looking for graduate students and research assistants with strong interests
 
 
 #~~~
-#Copyright \C 2012-2014 [henry.xu@cityu.edu.hk Hong Xu].
+#Copyright \C 2012-2016 [henry.xu@cityu.edu.hk Hong Xu].
 #~~~
 
 #- $\mbox{\LaTeX}$ [latex.html equation support].

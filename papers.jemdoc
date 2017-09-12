@@ -1,107 +1,192 @@
 # jemdoc: menu{MENU}{papers.html}, notime
 = Publications
 
+*Note* on the author list: Underlined are my students/RAs.
 
 Email me if you are interested in the preprints that are not available online.
 
-== Preprints
+# == Preprints
 
-. [http://arxiv.org/abs/1312.3455 Low Latency Datacenter Networking: A Short Survey]\n
-Shuhao Liu, Hong Xu, Zhiping Cai
-. [share/hxu-admm.pdf An Alternating Direction Method Approach to Cloud Traffic Management]\n
-Chen Feng, Hong Xu, Baochun Li
-. [ Temperature Aware Workload Management in Geo-distributed Datacenters] \n
-Hong Xu, Chen Feng, Baochun Li 
-. [http://arxiv.org/abs/1309.6422 Spot Transit: Cheaper Internet Transit for Elastic Traffic]\n
-Hong Xu, Baochun Li  
+#. [https://arxiv.org/abs/1703.05907 On Traffic Engineering with Segment Routing in SDN based WANs]\n
+# George Trimponias, _Yan Xiao_, Hong Xu, _Xiaorui Wu_, Yanhui Geng
+# . [ RepNet: Cutting Latency with Flow Replication in Data Center Networks ]\n
+# _Shuhao Liu_, Hong Xu, Wei Bai, _Libin Liu_, Kai Chen, Zhiping Cai
+# . [http://arxiv.org/abs/1312.3455 Low Latency Datacenter Networking: A Short Survey]\n
+# _Shuhao Liu_, Hong Xu, Zhiping Cai
 
+# . [https://arxiv.org/abs/1605.05843 Benchmarking NFV Software Dataplanes] \n
+# _Zhixiong Niu_, Hong Xu, Yongqiang Tian, _Libin Liu_, _Peng Wang_, Zhenhua Li\n
 
 == Conference and workshop proceedings
-=== Datacenters and cloud computing
-. [http://arxiv.org/abs/1307.5442 Reducing Electricity Demand Charge for Data Centers with Partial Execution]\n
+=== 2017
+. [ Aemon: Information-agnostic Mix-flow Scheduling in Data Center Networks]\n
+_Tao Wang_, Hong Xu, Fangming Liu\n
+APNet, 2017.\n
+. [ Bohr: Similarity Aware Geo-distributed Data Analytics] \n
+_Hangyu Li_, Hong Xu, Sarana Nutanong\n
+USENIX HotCloud, 2017.\n
+. [ Towards Load-Balanced VNF Assignment in Geo-distributed NFV Infrastructure] \n
+Xincai Fei, Fangming Liu, Hong Xu, Hai Jin\n
+IEEE/ACM IWQoS, 2017.\n
+. [share/yu-turc17.pdf THOR: A Server-level Hybrid Switching Data Center Network with Heterogeneous Topologies] (*Best Paper Award*) \n
+_Xiaoshan Yu_, Hong Xu, Huaxi Gu \n
+[http://china.acm.org/TURC/2017/SIGCOMM.html ACM TURC (Sigcomm China)], 2017.\n
+. [share/tao-icdcs17.pdf Multi-Resource Load Balancing for Virtual Network Functions] \n
+_Tao Wang_, Hong Xu, Fangming Liu\n
+IEEE ICDCS, 2017.\n
+. [share/zhixiong-nsdi17.pdf NetKernel: Network Stack as a Service in the Cloud] \n
+_Zhixiong Niu_, Hong Xu, Dongsu Han, _Peng Wang_, _Libin Liu_ \n
+USENIX NSDI, 2017 (poster).\n
+. [ Dynamic Switch-Controller Association and Control Devolution for SDN Systems]\n
+Xi Wang, Simeng Bian, Ziyu Shao, Hong Xu\n
+IEEE ICC 2017.\n
+
+=== 2016
+. [share/peng-socc16.pdf Expeditus: Distributed Congestion-aware Load Balancing in Clos Data Center Networks] \n
+_Peng Wang_, Hong Xu, _Zhixiong Niu_, Dongsu Han, Yongqiang Xiong\n 
+*ACM SoCC* 2016.\n
+. [share/che-sarnoff16.pdf Kuijia: Traffic Rescaling in Data Center WANs]\n
+_Che Zhang_, Hong Xu, _Libin Liu_, _Zhixiong Niu_, _Peng Wang_, _Yongqiang Tian_, Chengchen Hu\n
+IEEE Sarnoff 2016.\n
+. [share/jiaqi-icnp16.pdf We've Got You Covered: Failure Recovery with Backup Tunnels in Traffic Engineering]\n
+_Jiaqi Zheng_, Hong Xu, Xiaojun Zhu, Guihai Chen, Yanhui Geng\n
+IEEE ICNP 2016.\n
+. [share/libin-apsys16.pdf U-HAUL: Efficient State Migration in NFV]\n
+_Libin Liu_, Hong Xu, _Zhixiong Niu_, _Peng Wang_, Dongsu Han\n
+ACM APSys 2016.\n
+. [share/zhixiong-mass16.pdf More is Better? Measurement of MPTCP based Cellular Bandwidth Aggregation in the Wild]\n
+_Zhixiong Niu_, Zhi Wang, Hong Xu, Chuan Wu, Francis C.M. Lau\n
+IEEE MASS 2016.\n
+. [share/che-iccc16.pdf Performance Impact Inference with Failures in Data Center Networks]\n
+_Che Zhang_, Hong Xu, Chengchen Hu\n
+IEEE/CIC ICCC 2016.\n
+. [share/zxu-iwqos16.pdf Demystifying the Energy Efficiency of Network Function Virtualization] (*Best Paper Candidate*)\n
+Zhifeng Xu, Fangming Liu, Tao Wang, Hong Xu \n
+IEEE/ACM IWQoS 2016. \n
+. [share/tao-infocom16.pdf Dynamic SDN Controller Assignment in Data Center Networks: Stable Matching with Transfers]\n
+Tao Wang, Fangming Liu, Jian Guo, Hong Xu \n
+IEEE INFOCOM 2016. \n
+
+=== 2015
+. [share/jiaqi-icnp15.pdf Minimizing Transient Congestion during Network Update in Data Centers] (*Best Paper Award*)\n
+_Jiaqi Zheng_, Hong Xu, Guihai Chen, Haipeng Dai\n
+IEEE ICNP 2015. \n
+
+=== 2014
+. [share/pwang-conext14.pdf Expeditus: Distributed Load Balancing with Global Congestion Information in Data Center Networks] (*Best Paper Award*)\n
+_Peng Wang_, Hong Xu\n
+ACM CoNEXT Student Workshop, 2014.\n
+. [share/jiaqi-conext14.pdf Minimizing Transient Congestion during Network Update in Data Centers]\n
+_Jiaqi Zheng_, Hong Xu, Guihai Chen, Haipeng Dai\n
+ACM CoNEXT Student Workshop, 2014.\n
+. [share/hxu-energy14.pdf Reducing Electricity Demand Charge for Data Centers with Partial Execution]\n
 Hong Xu, Baochun Li\n
-Proc.~ACM International Conference on Future Energy Systems *(ACM e-Energy)*, 2014.
+ACM e-Energy, 2014.\n
 . [share/hxu-lanman14.pdf TinyFlow: Breaking Elephants Down Into Mice in Data Center Networks]\n
 Hong Xu, Baochun Li\n 
-Proc.~IEEE International Workshop on Local and Metropolitan Area Networks *(IEEE LANMAN)*, 2014.
+IEEE LANMAN, 2014.
 . [share/hxu-infocom14.pdf RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers]\n
 Hong Xu, Baochun Li\n 
-Proc.~IEEE Conference on Computer Communications *(IEEE INFOCOM)*, 2014. \n
-(Acceptance rate: 19.4%)
-. [ Security-aware Virtual Network Embedding]\n
-Shuhao Liu, Zhiping Cai, Hong Xu, Ming Xu\n
-Proc. IEEE International Conference on Communications *(ICC)*, 2014.
-. [ Carbon-aware Load Balancing for Geo-distributed Cloud Services]\n
+IEEE INFOCOM, 2014. \n
+. [share/shuhao-icc14.pdf Security-aware Virtual Network Embedding]\n
+_Shuhao Liu_, Zhiping Cai, Hong Xu, Ming Xu\n
+IEEE ICC, 2014.
+
+=== Before joining CityU
+
+. [share/mascots13.pdf Carbon-aware Load Balancing for Geo-distributed Cloud Services]\n
 Zhi Zhou, Fangming Liu, Yong Xu, Ruolan Zou, Hong Xu, John C.S. Lui, Hai Jin\n
-Proc.~IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems *(MASCOTS)*, 2013. \n
+IEEE MASCOTS, 2013. \n
 . [share/hxu-icac13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters]\n
 Hong Xu, Chen Feng, Baochun Li\n 
-Proc.~USENIX International Conference on Autonomic Computing *(ICAC)*, 2013. \n
-(Acceptance rate: 21\%)
+USENIX ICAC, 2013. \n
 . [share/hxu-sigmetrics13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters]\n
 Hong Xu, Chen Feng, Baochun Li\n 
-Proc.~ACM International Conference on Measurement and Modeling of Computer Systems *(SIGMETRICS)*, Extended Abstract, 2013.
+ACM SIGMETRICS, Extended Abstract, 2013.
 . [share/hxu-infocom13.pdf Joint Request Mapping and Response Routing for Geo-distributed Cloud Services]\n
 Hong Xu, Baochun Li\n
-Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2013. \n
-(Acceptance rate: 17\%)
+IEEE INFOCOM, 2013. \n
 . [share/hxu-iccc12.pdf Cost Efficient Datacenter Selection for Cloud Services]\n
 Hong Xu, Baochun Li\n 
-Proc.~IEEE International Conference on Communications in China *(ICCC)*, 2012.
+IEEE/CIC ICCC, 2012.
 . [share/hxu-cloud12.pdf A General and Practical Datacenter Selection Framework for Cloud Services]\n
 Hong Xu, Baochun Li\n 
-Proc.~IEEE International Conference on Cloud Computing *(IEEE CLOUD)*, 2012. \n
-(Acceptance rate: 17%. Top 1 most accessed articles of the proceedings in December 2012.)
+IEEE CLOUD, 2012. \n
 . [share/hxu-icc12.pdf Maximizing Revenue with Dynamic Cloud Pricing: The Infinite Horizon Case]\n
 Hong Xu, Baochun Li\n 
-Proc.~IEEE International Conference on Communications *(ICC)*, 2012. 
+IEEE ICC, 2012. 
 . [share/hxu-infocom12.pdf Quality-Assured Cloud Bandwidth Auto-Scaling for Video-on-Demand Applications]\n
 Di Niu, Hong Xu, Baochun Li, Shuqiao Zhao\n 
-Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2012.\n 
-(Acceptance rate: 18\%)
+IEEE INFOCOM, 2012.\n 
 . [share/hxu-mm11.pdf Risk Management for Video-on-Demand Servers Leveraging Demand Forecast]\n
 Di Niu, Hong Xu, Baochun Li, Shuqiao Zhao. \n 
-Proc.~ACM International Conference on Multimedia *(MM)*, 2011, short paper.
+ACM Multimedia (MM), 2011, short paper.
 . [share/hxu-infocom11.pdf Seen As Stable Marriages] \n
 Hong Xu, Baochun Li\n
-Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, mini-conference, 2011.\n
-(Acceptance rate: 23\%)
+IEEE INFOCOM, mini-conference, 2011.\n
 . [share/hxu-cloudwks11.pdf Egalitarian Stable Matching for VM Migration in Cloud Computing]\n
 Hong Xu, Baochun Li\n
 IEEE INFOCOM Workshop on Cloud Computing, 2011.
-
-=== Resource allocation in wireless networks
 . [share/hxu-infocom10.pdf Efficient Resource Allocation with Flexible Channel Cooperation in OFDMA Cognitive Radio Networks]\n
 Hong Xu, Baochun Li\n
-Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2010.\n 
-(Acceptance rate: 17\%)
+IEEE INFOCOM, 2010.\n 
 . [share/hxu-infocom10-mini.pdf A Secondary Market for Spectrum]\n
 Hong Xu, Jin Jin, Baochun Li\n
-Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, mini-conference, 2010. \n
-(Acceptance rate: 24\%)
+IEEE INFOCOM, mini-conference, 2010. \n
 . [share/hxu-infocom10-multicast.pdf Multicast Scheduling with Cooperation and Network Coding in Cognitive Radio Networks]\n
 Jin Jin, Hong Xu, Baochun Li\n
-Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2010. \n
-(Acceptance rate: 17\%. Top 3 most accessed articles of the proceedings in December 2012.)
+IEEE INFOCOM, 2010. \n
 . [share/hxu-icc10.pdf A Channel Portfolio Optimization Framework for Trading in a Spectrum Secondary Market] \n
 Hong Xu, Jin Jin, Baochun Li\n
-Proc.~IEEE International Conference on Communications *(ICC)*, 2010.
+IEEE ICC, 2010.
 . [share/hxu-infocom09.pdf XOR-Assisted Cooperative Diversity in OFDMA Wireless Networks: Optimization Framework and Approximation Algorithms]\n
 Hong Xu, Baochun Li\n
-Proc.~IEEE Conference on Computer Communications *(INFOCOM)*, 2009. \n
-(Acceptance rate: 20\%)
+IEEE INFOCOM, 2009. \n
 . [share/hxu-globecom11.pdf YMMV: Multiple Session Multicast with MIMO] \n
 Hong Xu, Jin Jin, Baochun Li\n
-Proc.~IEEE Global Communications Conference *(Globecom)*, 2011.
+IEEE Globecom, 2011.
 
 
 == Journal publications
+. [ Expeditus: Congestion-aware Load Balancing in Clos Data Center Networks] \n
+_Peng Wang_, Hong Xu, _Zhixiong Niu_, Dongsu Han, Yongqiang Xiong\n
+IEEE/ACM Transactions on Networking, 2017.\n
+. [ An Efficient Online Algorithm for Dynamic SDN Controller Assignment in Data Center Networks]\n
+_Tao Wang_, Fangming Liu, Hong Xu\n
+IEEE/ACM Transactions on Networking, 2017.\n
+. [ Resource Auto-Scaling and Sparse Content Replication for Video Storage Systems]\n
+Di Niu, Hong Xu, Baochun Li\n
+ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2017.\n
+. [share/chen-admm.pdf An Alternating Direction Method Approach to Cloud Traffic Management]\n
+Chen Feng, Hong Xu, Baochun Li\n
+IEEE Transactions on Parallel and Distributed Systems, 28(8):2145--2158, August 2017.
+. [ Congestion-Minimizing Network Update Data Centers]\n
+_Jiaqi Zheng_, Hong Xu, Guihai Chen, Haipeng Dai, Jie Wu \n
+IEEE Transactions on Services Computing, 2016.
+. [ Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers]\n
+Mohammad A. Islam, Kishwar Ahmed, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren\n
+IEEE Transactions on Cloud Computing, 2016.
+. [ Carbon-aware Online Control of Geo-distributed Cloud Services]\n
+Zhi Zhou, Fangming Liu, Ruolan Zou, Jiangchuan Liu, Hong Xu, Hai Jin\n
+IEEE Transactions on Parallel and Distributed Systems, 27(9):2506--2519, September 2016.
+. [share/shuhao-comnet15.pdf Towards Security-aware Virtual Network Embedding] \n
+Shuhao Liu, Zhiping Cai, Hong Xu, Ming Xu\n
+Elsevier Computer Networks, 91:151--163, November 2015. 
+. [share/hxu-tsc14.pdf Spot Transit: Cheaper Internet Transit for Elastic Traffic] ([share/hxu-tsc14-supp.pdf Supplementary material])\n
+Hong Xu, Baochun Li\n
+IEEE Transactions on Services Computing, 8(5):768--781, September 2015.
+. [share/hxu-tpds14.pdf Temperature Aware Workload Management in Geo-distributed Datacenters] ([share/hxu-tpds14-supp.pdf Supplementary material])\n
+Hong Xu, Chen Feng, Baochun Li\n
+IEEE Transactions on Parallel and Distributed Systems, 26(6):1743--1753, June 2015.
+. [ An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks]\n
+Hong Xu, Baochun Li \n
+IEEE Transactions on Mobile Computing, 13(5):979--991, May 2014.
 . [share/hxu-tcc2013.pdf Dynamic Cloud Pricing for Revenue Maximization] \n
 Hong Xu, Baochun Li\n
 IEEE Transactions on Cloud Computing, 1(2):158--171, July--December 2013.
-. [ An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks]\n
-Hong Xu, Baochun Li \n
-IEEE Transactions on Mobile Computing, to appear.
+
+=== Before joining CityU
+
 . [share/hxu-anchor.pdf /Anchor/: A Versatile and Efficient Framework for Resource Management in the Cloud] ([share/hxu-anchor-supplementary.pdf Supplementary material])\n
 Hong Xu, Baochun Li \n
 IEEE Transactions on Parallel and Distributed Systems, Special Issue on Cloud Computing, 24(6):1066--1076, June 2013. 
@@ -112,11 +197,14 @@ IEEE Transactions on Mobile Computing, 12(5):957--970, May 2013.
 Hong Xu, Baochun Li\n
 ACM SIGMETRICS Performance Evaluation Review, Special Issue on Cloud Computing, 40(4):3--12, March 2013.
 
+# == Posters \& Demos
+
+
 == Book chapters
-. [Network Coding in Relay-based Networks] 
+. [ Network Coding in Relay-based Networks] \n
 Hong Xu, Baochun Li\n
 In [http://www.cambridge.org/9780521767125 Cooperative Cellular Wireless Networks], Ekram Hossain, Dong In Kim, Vijay Bhargava, Editors, Cambridge University Press, pp. 324--344, ISBN 978-0-521-76712-5, Hardback, 2011.
-. [Network Coding in Bi-directed and Peer-to-Peer Networks] \n
+. [ Network Coding in Bi-directed and Peer-to-Peer Networks] \n
 Zongpeng Li, Hong Xu, Baochun Li \n
 In [http://www.cambridge.org/9780521113687 Next-Generation Internet Architectures and Protocols], Byrav Ramamurthy, George Rouskas, Krishna Sivalingam, Editors, Cambridge University Press, pp. 359--377, ISBN 978-0-521-11368-7, Hardback, 2011
 

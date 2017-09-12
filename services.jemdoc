@@ -1,25 +1,61 @@
 # jemdoc: menu{MENU}{services.html}, notime
 = Professional activities
 
-== Conference TPC
-- IEEE INFOCOM, Advisory TPC, 2015
-- International Conference on Wireless Communications and Signal Processing (WCSP), 2014
-- International Conference on Network Games, Control and Optimization (NETGCOOP), 2014
-- IEEE CloudCom, 2014 
-- IEEE ICCC, 2014
-- IEEE CloudNet, 2014, 2013
-- GPC, 2014
+== Conferences and Workshops
+
+=== Organizers
+
+- Travel Grants Co-chair, IEEE ICNP, 2017
+- Poster Co-chair, ACM APNet, 2017
+- Registration Chair and Treasurer, ACM e-Energy, 2017
+- Publication Chair, IEEE LANMAN, 2017
+- Program Co-chair, IEEE ICNP Workshop on Machine Learning in Computer Networks (NetworkML 2016), 2016
+- Publication Chair, ACM APSys, 2016
+
+=== TPC
+- 2018: IEEE ICDCS, CCNC
+- 2017: USENIX HotCloud, ACM e-Energy, ACM MMSys, ITC, IEEE INFOCOM, IEEE LANMAN, IEEE IWQoS, IEEE/ACM NetSys
+- 2016: ACM e-Energy, ACM EuroSys (shadow PC), ITC, IEEE INFOCOM, IEEE LANMAN 
+- 2015: IEEE INFOCOM (advisory TPC), IEEE ICDCS, IEEE MASS, COMSNET 
+- 2014: IEEE MASS, IEEE CloudCom, IEEE CloudNet
+# - 2013: IEEE CloudNet
+
+# - IEEE/ACM NetSys, 2017
+#- IEEE LANMAN, 2016
+#- ACM EuroSys, shadow PC, 2016
+#- ACM e-Energy, 2016
+#- IEEE INFOCOM, 2016, 2015
+#- IEEE ICDCS, 2015
+#- COMSNETS, 2015
+#- IEEE MASS, 2015, 2014
+#- IEEE CloudCom, 2015, 2014 
+#- IEEE ICCC, 2015, 2014
+#- IEEE CloudNet, 2015, 2014, 2013
+# - IPCCC, 2015
+# - International Conference on Wireless Communications and Signal Processing (WCSP), 2014
+# - International Conference on Network Games, Control and Optimization (NETGCOOP), 2014
+# - PDCAT, 2014
+# - GPC, 2014
 
 == Journals 
 
-Reviewers for ACM/IEEE Transactions on Networking, IEEE Journal on Selected Areas in Communications, IEEE Transaction on Mobile Computing, IEEE Transactions on Cloud Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, etc.
+=== Reviewers for: 
+- ACM/IEEE Transactions on Networking
+- ACM Transactions on Cyber-Physical Systems
+- IEEE Journal on Selected Areas in Communications
+- IEEE Transactions on Mobile Computing
+- IEEE Transactions on Parallel and Distributed Systems
+- IEEE Transactions on Cloud Computing
+- IEEE Transactions on Multimedia
+- IEEE Transactions on Wireless Communications
+- IEEE Transactions on Communications
 
-== Community
+== Professional Membership
 
 - Member, IEEE
 - Member, IEEE ComSoc
 - Member, ACM
-- Member, ACM SIGCOMM, ACM SIGMETRICS
+- Member, ACM SIGCOMM
 
 #- $\mbox{\LaTeX}$ [latex.html equation support].
 #- [tables.html Table support].
