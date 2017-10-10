@@ -12,12 +12,6 @@ docs : $(PHDOCS)
 	# @scp -oHostKeyAlgorithms=+ssh-dss *.js *.html *.css *.jpg *.gif *.png MENU hxu@gateway.cs.cityu.edu.hk:./www/
 	# @echo ' done.'
 
-.PHONY : papers
-papers : $(PHDOCS)
-	@echo -n 'Copying to server...'
-	@scp -oHostKeyAlgorithms=+ssh-dss share/*.* hxu@gateway.cs.cityu.edu.hk:./www/share/
-	@echo ' done.'
-
 ./%.html : %.jemdoc MENU
 	# ./jemdoc -c mysite.conf *.jemdoc
 	./jemdoc.py -c mysite.conf -o $@ $<
