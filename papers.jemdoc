@@ -21,28 +21,28 @@ Email me if you are interested in the preprints that are not available online.
 === 2017
 . [ Network Stack as a Service in the Cloud] \n
 _Zhixiong Niu_, Hong Xu, Dongsu Han, Peng Cheng, Yongqiang Xiong, Guo Chen, Keith Winstein \n
-*ACM HotNets*, 2017.\n
+*ACM HotNets*.\n
 . [https://dl.acm.org/authorize?N46553 Aemon: Information-agnostic Mix-flow Scheduling in Data Center Networks]\n
 _Tao Wang_, Hong Xu, Fangming Liu\n
-APNet, 2017.\n
+APNet.\n
 . [https://www.usenix.org/conference/hotcloud17/program/presentation/li Bohr: Similarity Aware Geo-distributed Data Analytics] \n
 _Hangyu Li_, Hong Xu, Sarana Nutanong\n
-USENIX HotCloud, 2017.\n
+USENIX HotCloud.\n
 . [ Towards Load-Balanced VNF Assignment in Geo-distributed NFV Infrastructure] \n
 Xincai Fei, Fangming Liu, Hong Xu, Hai Jin\n
-IEEE/ACM IWQoS, 2017.\n
+IEEE/ACM IWQoS.\n
 . [https://dl.acm.org/authorize?N46554 THOR: A Server-level Hybrid Switching Data Center Network with Heterogeneous Topologies] (*Best Paper Award*) \n
 _Xiaoshan Yu_, Hong Xu, Huaxi Gu \n
-[http://china.acm.org/TURC/2017/SIGCOMM.html ACM TURC (Sigcomm China)], 2017.\n
+[http://china.acm.org/TURC/2017/SIGCOMM.html ACM TURC (Sigcomm China)].\n
 . [share/tao-icdcs17.pdf Multi-Resource Load Balancing for Virtual Network Functions] \n
 _Tao Wang_, Hong Xu, Fangming Liu\n
-IEEE ICDCS, 2017.\n
+IEEE ICDCS.\n
 . [share/zhixiong-nsdi17.pdf NetKernel: Network Stack as a Service in the Cloud] \n
 _Zhixiong Niu_, Hong Xu, Dongsu Han, _Peng Wang_, _Libin Liu_ \n
-USENIX NSDI, 2017 (poster).\n
+USENIX NSDI (poster).\n
 . [ Dynamic Switch-Controller Association and Control Devolution for SDN Systems]\n
 Xi Wang, Simeng Bian, Ziyu Shao, Hong Xu\n
-IEEE ICC 2017.\n
+IEEE ICC.\n
 
 === 2016
 . [https://dl.acm.org/authorize?N46565 Expeditus: Distributed Congestion-aware Load Balancing in Clos Data Center Networks] \n
