@@ -43,6 +43,14 @@ I work on computer networks and systems. I lead the [https://netx-lab.github.io/
 # My current research interests include data center networking, NFV, and SDN. My recent projects focus on novel frameworks and protocols for high performance and programmable packet processing, network transport, and scheduling/resource allocation in networks and data analytics systems. 
 # I am also interested in network economics, and data mining and analytics.
 
+== Selected Publications ([papers.html full list])
+- "Network Stack as a Service in the Cloud", ACM HotNets 2017
+- "[https://www.usenix.org/conference/hotcloud17/program/presentation/li Bohr: Similarity Aware Geo-distributed Data Analytics]", USENIX HotCloud 2017
+- "[share/tao-icdcs17.pdf Multi-Resource Load Balancing for Virtual Network Functions]", IEEE ICDCS 2017
+- "[https://dl.acm.org/authorize?N46565 Expeditus: Distributed Congestion-aware Load Balancing in Clos Data Center Networks]", ACM SoCC 2016
+- "[share/jiaqi-icnp16.pdf We've Got You Covered: Failure Recovery with Backup Tunnels in Traffic Engineering]", IEEE ICNP 2016
+- "[share/jiaqi-icnp15.pdf Minimizing Transient Congestion during Network Update in Data Centers]" (*Best Paper Award*), IEEE ICNP 2015
+- "[share/hxu-infocom14.pdf RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers]", IEEE INFOCOM 2014
 
 == Prospective Students
 
