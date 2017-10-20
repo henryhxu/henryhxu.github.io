@@ -153,10 +153,10 @@ IEEE Globecom, 2011.
 == Journal publications
 . [ Expeditus: Congestion-aware Load Balancing in Clos Data Center Networks] \n
 _Peng Wang_, Hong Xu, _Zhixiong Niu_, Dongsu Han, Yongqiang Xiong\n
-IEEE/ACM Transactions on Networking, 2017.\n
+IEEE/ACM Transactions on Networking, 25(5):3175--3188, October 2017.\n
 . [ An Efficient Online Algorithm for Dynamic SDN Controller Assignment in Data Center Networks]\n
 _Tao Wang_, Fangming Liu, Hong Xu\n
-IEEE/ACM Transactions on Networking, 2017.\n
+IEEE/ACM Transactions on Networking, 25(5):2788--2801, October 2017.\n
 . [ Resource Auto-Scaling and Sparse Content Replication for Video Storage Systems]\n
 Di Niu, Hong Xu, Baochun Li\n
 ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2017.\n
