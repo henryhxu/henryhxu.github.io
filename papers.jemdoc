@@ -45,7 +45,7 @@ Xi Wang, Simeng Bian, Ziyu Shao, Hong Xu\n
 IEEE ICC.\n
 
 === 2016
-. [https://dl.acm.org/authorize?N46565 Expeditus: Distributed Congestion-aware Load Balancing in Clos Data Center Networks] \n
+. [https://dl.acm.org/authorize?N46565 Expeditus: Distributed Congestion-Aware Load Balancing in Clos Data Center Networks] \n
 _Peng Wang_, Hong Xu, _Zhixiong Niu_, Dongsu Han, Yongqiang Xiong\n 
 *ACM SoCC* 2016.\n
 . [share/che-sarnoff16.pdf Kuijia: Traffic Rescaling in Data Center WANs]\n
@@ -91,22 +91,22 @@ IEEE LANMAN, 2014.
 . [share/hxu-infocom14.pdf RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers]\n
 Hong Xu, Baochun Li\n 
 IEEE INFOCOM, 2014. \n
-. [share/shuhao-icc14.pdf Security-aware Virtual Network Embedding]\n
+. [share/shuhao-icc14.pdf Security-Aware Virtual Network Embedding]\n
 _Shuhao Liu_, Zhiping Cai, Hong Xu, Ming Xu\n
 IEEE ICC, 2014.
 
 === Before joining CityU
 
-. [share/mascots13.pdf Carbon-aware Load Balancing for Geo-distributed Cloud Services]\n
+. [share/mascots13.pdf Carbon-Aware Load Balancing for Geo-Distributed Cloud Services]\n
 Zhi Zhou, Fangming Liu, Yong Xu, Ruolan Zou, Hong Xu, John C.S. Lui, Hai Jin\n
 IEEE MASCOTS, 2013. \n
-. [share/hxu-icac13.pdf Temperature Aware Workload Management in Geo-distributed Datacenters]\n
+. [share/hxu-icac13.pdf Temperature Aware Workload Management in Geo-Distributed Datacenters]\n
 Hong Xu, Chen Feng, Baochun Li\n 
 USENIX ICAC, 2013. \n
-. [http://dl.acm.org/authorize?N19102 Temperature Aware Workload Management in Geo-distributed Datacenters]\n
+. [http://dl.acm.org/authorize?N19102 Temperature Aware Workload Management in Geo-Distributed Datacenters]\n
 Hong Xu, Chen Feng, Baochun Li\n 
 ACM SIGMETRICS, Extended Abstract, 2013.
-. [share/hxu-infocom13.pdf Joint Request Mapping and Response Routing for Geo-distributed Cloud Services]\n
+. [share/hxu-infocom13.pdf Joint Request Mapping and Response Routing for Geo-Distributed Cloud Services]\n
 Hong Xu, Baochun Li\n
 IEEE INFOCOM, 2013. \n
 . [share/hxu-iccc12.pdf Cost Efficient Datacenter Selection for Cloud Services]\n
@@ -151,7 +151,7 @@ IEEE Globecom, 2011.
 
 
 == Journal publications
-. [ Expeditus: Congestion-aware Load Balancing in Clos Data Center Networks] \n
+. [ Expeditus: Congestion-Aware Load Balancing in Clos Data Center Networks] \n
 _Peng Wang_, Hong Xu, _Zhixiong Niu_, Dongsu Han, Yongqiang Xiong\n
 IEEE/ACM Transactions on Networking, 25(5):3175--3188, October 2017.\n
 . [ An Efficient Online Algorithm for Dynamic SDN Controller Assignment in Data Center Networks]\n
@@ -169,16 +169,16 @@ IEEE Transactions on Services Computing, 2016.
 . [ Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers]\n
 Mohammad A. Islam, Kishwar Ahmed, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren\n
 IEEE Transactions on Cloud Computing, 2016.
-. [ Carbon-aware Online Control of Geo-distributed Cloud Services]\n
+. [ Carbon-Aware Online Control of Geo-Distributed Cloud Services]\n
 Zhi Zhou, Fangming Liu, Ruolan Zou, Jiangchuan Liu, Hong Xu, Hai Jin\n
 IEEE Transactions on Parallel and Distributed Systems, 27(9):2506--2519, September 2016.
-. [share/shuhao-comnet15.pdf Towards Security-aware Virtual Network Embedding] \n
+. [share/shuhao-comnet15.pdf Towards Security-Aware Virtual Network Embedding] \n
 Shuhao Liu, Zhiping Cai, Hong Xu, Ming Xu\n
 Elsevier Computer Networks, 91:151--163, November 2015. 
 . [share/hxu-tsc14.pdf Spot Transit: Cheaper Internet Transit for Elastic Traffic] ([share/hxu-tsc14-supp.pdf Supplementary material])\n
 Hong Xu, Baochun Li\n
 IEEE Transactions on Services Computing, 8(5):768--781, September 2015.
-. [share/hxu-tpds14.pdf Temperature Aware Workload Management in Geo-distributed Datacenters] ([share/hxu-tpds14-supp.pdf Supplementary material])\n
+. [share/hxu-tpds14.pdf Temperature Aware Workload Management in Geo-Distributed Datacenters] ([share/hxu-tpds14-supp.pdf Supplementary material])\n
 Hong Xu, Chen Feng, Baochun Li\n
 IEEE Transactions on Parallel and Distributed Systems, 26(6):1743--1753, June 2015.
 . [ An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks]\n
@@ -204,10 +204,10 @@ ACM SIGMETRICS Performance Evaluation Review, Special Issue on Cloud Computing, 
 
 
 == Book chapters
-. [ Network Coding in Relay-based Networks] \n
+. [ Network Coding in Relay-Based Networks] \n
 Hong Xu, Baochun Li\n
 In [http://www.cambridge.org/9780521767125 Cooperative Cellular Wireless Networks], Ekram Hossain, Dong In Kim, Vijay Bhargava, Editors, Cambridge University Press, pp. 324--344, ISBN 978-0-521-76712-5, Hardback, 2011.
-. [ Network Coding in Bi-directed and Peer-to-Peer Networks] \n
+. [ Network Coding in Bi-Directed and Peer-to-Peer Networks] \n
 Zongpeng Li, Hong Xu, Baochun Li \n
 In [http://www.cambridge.org/9780521113687 Next-Generation Internet Architectures and Protocols], Byrav Ramamurthy, George Rouskas, Krishna Sivalingam, Editors, Cambridge University Press, pp. 359--377, ISBN 978-0-521-11368-7, Hardback, 2011
 
