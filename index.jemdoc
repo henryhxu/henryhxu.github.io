@@ -2,7 +2,7 @@
 = Hong Xu 
 
 ~~~
-{}{img_left}{Henry.png}{alt text}{WIDTHpx}{HEIGHTpx}
+{}{img_left}{Henry.png}{alt text}{WIDTHpx}{270px}
 
 
 Assistant Professor \n
@@ -13,7 +13,6 @@ Assistant Professor \n
 #=== Contact
 
 Office: AC1 B6415 (AC1 is now called Yeung Kin Man Academic Building) \n
-Office hours: Email me to set up a time. \n
 Tel: \+852 3442 4840 \n
 Fax: \+852 3442 0503 (Attn.: Henry Xu) \n
 Email: henry.xu \[at\] cityu.edu.hk \n
@@ -44,7 +43,7 @@ I work on computer networks and systems. I lead the [https://netx-lab.github.io/
 # I am also interested in network economics, and data mining and analytics.
 
 == Recent Publications ([papers.html full list])
-- "Network Stack as a Service in the Cloud", ACM HotNets 2017
+- "[https://conferences.sigcomm.org/hotnets/2017/papers/hotnets17-final34.pdf Network Stack as a Service in the Cloud]", ACM HotNets 2017
 - "[https://www.usenix.org/conference/hotcloud17/program/presentation/li Bohr: Similarity Aware Geo-Distributed Data Analytics]", USENIX HotCloud 2017
 - "[share/tao-icdcs17.pdf Multi-Resource Load Balancing for Virtual Network Functions]", IEEE ICDCS 2017
 - "[https://dl.acm.org/authorize?N46565 Expeditus: Distributed Congestion-Aware Load Balancing in Clos Data Center Networks]", ACM SoCC 2016
@@ -64,7 +63,7 @@ I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulL
 
 == News
 
-- 10\/2017. Our vision paper about [ network stack as a service] accepted to [http://conferences.sigcomm.org/hotnets/2017/ ACM HotNets 2017]. Check us out at Palo Alto! 
+- 10\/2017. Our vision paper about [https://conferences.sigcomm.org/hotnets/2017/papers/hotnets17-final34.pdf network stack as a service] accepted to [http://conferences.sigcomm.org/hotnets/2017/ ACM HotNets 2017]. Check us out at Palo Alto! 
 - 09\/2017. Serving as the publicity co-chair of ACM SIGCOMM 2018. Please submit!
 - 06\/2017. Expeditus accepted to IEEE/ACM ToN.
 - 06\/2017. Aemon accepted to [http://conferences.sigcomm.org/events/apnet2017/index.html APNet'17].
