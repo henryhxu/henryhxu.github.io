@@ -158,6 +158,9 @@ IEEE Globecom, 2011.
 
 
 == Journal publications
+. [ RepNet: Cutting Latency with Flow Replication in Data Center Networks]\n
+_Shuhao Liu_, Hong Xu, Libin Liu, Wei Bai, Kai Chen, and Zhiping Cai\n
+IEEE Transactions on Services Computing, 2018.
 . [https://dl.acm.org/authorize?N40439 Resource Auto-Scaling and Sparse Content Replication for Video Storage Systems]\n
 Di Niu, Hong Xu, Baochun Li\n
 ACM Transactions on Modeling and Performance Evaluation of Computing Systems, 2(4):19:1--19:30, November 2017.\n
