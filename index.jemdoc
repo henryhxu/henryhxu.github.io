@@ -62,8 +62,9 @@ I am always looking for bright PhD students to work with me. See [join.html here
 I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulLwRAHrGG4TgatE7v1c/edit?usp=sharing list of top conferences/workshops for networked systems] sorted by their usual deadlines. 
 
 == News
-
+- 01\/2018. Presented [https://dl.acm.org/authorize?N41511 NetKernel] at VMware Research.
 - 11\/2017. One paper accepted to IEEE INFOCOM'18.
+- 11\/2017. Presented [https://dl.acm.org/authorize?N41511 NetKernel] at Google.
 - 10\/2017. Our vision paper about [https://dl.acm.org/authorize?N41511 network stack as a service] accepted to [http://conferences.sigcomm.org/hotnets/2017/ ACM HotNets 2017]. Check us out at Palo Alto! 
 - 09\/2017. Serving as the publicity co-chair of ACM SIGCOMM 2018. Please submit!
 - 06\/2017. Expeditus accepted to IEEE/ACM ToN.
@@ -73,9 +74,9 @@ I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulL
 - 04/2017. Bohr accepted to HotCloud'17; another paper on NFV accepted to IWQoS'17.
 - 04/2017. Our journal paper on cloud video storage is accepted to ACM TOMPECS.
 - 03/2017. Our paper on multi-resource load balancing in NFV is accepted to [https://icdcs2017.gatech.edu/ ICDCS'17]. 
-- 02/2017. [share/zhixiong-nsdi17.pdf NetKernel] is accepted as a poster at [https://www.usenix.org/conference/nsdi17 NSDI'17]. Check us out at Boston!
-- 01/2017. I am serving as the travel grants co-chair of [http://iqua.ece.toronto.edu/icnp17/ IEEE ICNP'17]. Please submit!
-- 01/2017. Our paper on an optimization framework for solving cloud traffic management problems is accepted to TPDS.
+# - 02/2017. [share/zhixiong-nsdi17.pdf NetKernel] is accepted as a poster at [https://www.usenix.org/conference/nsdi17 NSDI'17]. Check us out at Boston!
+# - 01/2017. I am serving as the travel grants co-chair of [http://iqua.ece.toronto.edu/icnp17/ IEEE ICNP'17]. Please submit!
+# - 01/2017. Our paper on an optimization framework for solving cloud traffic management problems is accepted to TPDS.
 # - 01/2017. I am serving as the poster co-chair of [http://conferences.sigcomm.org/events/apnet2017/ ACM APNet'17]. Please submit!
 # - 01/2017. I am serving on the PC of [https://www.usenix.org/conference/hotcloud17 ACM HotCloud'17]. Please submit!
 # - 09/2016. I am serving on the PC of [http://china.acm.org/ACAC/2017/SIGCOMM.html ACM SIGCOMM China 2017]. Please submit!
