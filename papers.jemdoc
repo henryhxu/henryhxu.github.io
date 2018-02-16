@@ -158,6 +158,9 @@ IEEE Globecom, 2011.
 
 
 == Journal publications
+. [ On the Synchronization Bottleneck of OpenStack Swift-like Cloud Storage Systems]\n
+Mingkang Ruan, Titcheu Thierry, Ennan Zhai, Zhenhua Li, Yao Liu, Jinlong E, Yong Cui, Hong Xu\n
+IEEE Transactions on Parallel and Distributed Systems, 2018.
 . [ RepNet: Cutting Latency with Flow Replication in Data Center Networks]\n
 _Shuhao Liu_, Hong Xu, Libin Liu, Wei Bai, Kai Chen, and Zhiping Cai\n
 IEEE Transactions on Services Computing, 2018.
