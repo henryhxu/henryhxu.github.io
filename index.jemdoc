@@ -35,12 +35,8 @@ I work on computer networks and systems. I lead the [https://netx-lab.github.io/
 
 - *Data center transport*: load balancing, congestion control, scheduling, virtualization 
 
-- *NFV frameworks*: line-rate low-latency programmable packet processing with minimal resource footprint 
-
 - *ML\/DA systems*: machine learning and data analytics are important, but system and deployment support of ML\/DA (resource allocation, scheduling) is often the bottleneck to real-world use
 
-# My current research interests include data center networking, NFV, and SDN. My recent projects focus on novel frameworks and protocols for high performance and programmable packet processing, network transport, and scheduling/resource allocation in networks and data analytics systems. 
-# I am also interested in network economics, and data mining and analytics.
 
 == Recent Publications ([papers.html full list])
 - "[https://dl.acm.org/authorize?N42004 Network Stack as a Service in the Cloud]", ACM HotNets 2017
