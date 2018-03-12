@@ -29,7 +29,6 @@ due to the junk emails they send. Please use other emails to contact me.
 
 I work on computer networks and systems. I lead the NetX Lab. Welcome to visit us!
 
-# I focus on systems building and mathematical modeling to explore and understand the design of large-scale computer networks and networked systems. 
 
 == Current Projects
 
@@ -114,27 +113,6 @@ I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulL
 # - Sep. 27, 2012, new Projects page online.
 # - Aug. 3, 2012, new web site goes online. 
 
-#== Curriculum Vitae
-
-#[share/HongXU-CV.pdf CV] as of January 2014
-
-
-
-
-#~~~
-#Copyright \C 2012-2016 [henry.xu@cityu.edu.hk Hong Xu].
-#~~~
-
-#- $\mbox{\LaTeX}$ [latex.html equation support].
-#- [tables.html Table support].
-#- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
-#  single css file \+ your input file {{&rarr;}} html.
-#- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
-#  independent of jemdoc.
-#- Production of clean,
-#  [http://validator.w3.org/check/referer
-#  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
-#- Minimal bells and whistles, but simple fallback to raw html if required.
 
 
 
