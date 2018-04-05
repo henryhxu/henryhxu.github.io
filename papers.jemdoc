@@ -8,11 +8,14 @@ Email me if you are interested in the preprints that are not available online.
 
 == Conference and workshop proceedings
 === 2018
-. [ Adaptive VNF Scaling and Flow Routing with Proactive Demand Prediction]\n
+. [ DHL: Enabling Flexible Software Network Functions with FPGA Acceleration]\n
+Xiaoyao Li, Xiuxiu Wang, Fangming Liu, Hong Xu\n
+IEEE INFOCOM.
+. [share/xincai-infocom18.pdf Adaptive VNF Scaling and Flow Routing with Proactive Demand Prediction]\n
 Xincai Fei, Fangming Liu, Hong Xu, Hai Jin\n
 IEEE INFOCOM.
 === 2017
-. [ Unveiling Performance of NFV Software Dataplanes] \n
+. [https://dl.acm.org/authorize?N44322 Unveiling Performance of NFV Software Dataplanes] \n
 _Zhixiong Niu_, Hong Xu, Libin Liu, Yongqiang Tian, Peng Wang, Zhenhua Li\n
 CAN Workshop, co-located with ACM CoNEXT.\n
 . [https://dl.acm.org/authorize?N42004 Network Stack as a Service in the Cloud] [https://netkernel.net/ (project site)] [share/HotNets17-slides.pdf (slides)] [https://dl.acm.org/citation.cfm?id=3152442&picked=formats (talk video)]\n
