@@ -150,14 +150,17 @@ IEEE Globecom, 2011.
 
 
 == Journal publications
+. [ C2Net: A Network-Efficient Approach to Collision Counting LSH Similarity Join]\n
+_Hangyu Li_, Sarana Nutanong, Hong Xu, Chenyun Yu, Foryu Ha\n
+IEEE Transactions on Knowledge and Data Engineering, 2018.\n
 . [ THOR: A Scalable Hybrid Switching Architecture for Data Centers]\n
 _Xiaoshan Yu_, Hong Xu, Huaxi Gu, Hao Lan\n
 IEEE Transactions on Communications, 2018.\n
-. [ On the Synchronization Bottleneck of OpenStack Swift-like Cloud Storage Systems]\n
+. [ On the Synchronization Bottleneck of OpenStack Swift-Like Cloud Storage Systems]\n
 Mingkang Ruan, Titcheu Thierry, Ennan Zhai, Zhenhua Li, Yao Liu, Jinlong E, Yong Cui, Hong Xu\n
 IEEE Transactions on Parallel and Distributed Systems, 2018.
 . [ RepNet: Cutting Latency with Flow Replication in Data Center Networks]\n
-_Shuhao Liu_, Hong Xu, Libin Liu, Wei Bai, Kai Chen, and Zhiping Cai\n
+_Shuhao Liu_, Hong Xu, Libin Liu, Wei Bai, Kai Chen, Zhiping Cai\n
 IEEE Transactions on Services Computing, 2018.
 . [https://dl.acm.org/authorize?N40439 Resource Auto-Scaling and Sparse Content Replication for Video Storage Systems]\n
 Di Niu, Hong Xu, Baochun Li\n
