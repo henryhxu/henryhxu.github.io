@@ -60,6 +60,7 @@ I am always looking for bright PhD students to work with me. See [join.html here
 I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulLwRAHrGG4TgatE7v1c/edit?usp=sharing list of top conferences/workshops for networked systems] sorted by their usual deadlines. 
 
 == News
+- 08\/2018. [ Elasecutor] accepted to ACM SoCC'18.
 - 07\/2018. [share/peng-tpds18.pdf Luopan] based on random sampling is accepted to IEEE TPDS.
 - 03\/2018. [share/xiaoyao-icdcs18.pdf DHL], a FPGA-CPU co-design for NFV is accepted to ICDCS'18.
 - 02\/2018. My OVS Orbit interview with Ben Pfaff about [https://netkernel.net/ NetKernel] is [https://ovsorbit.org/ here].
@@ -73,7 +74,7 @@ I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulL
 - 06\/2017. Aemon accepted to [http://conferences.sigcomm.org/events/apnet2017/index.html APNet'17].
 - 05\/2017. [share/yu-turc17.pdf THOR] received best paper award from [http://china.acm.org/TURC/2017/SIGCOMM.html ACM TURC 2017 (Sigcomm China)].
 - 04\/2017. One paper accepted to ACM/IEEE ToN.
-- 04/2017. Bohr accepted to HotCloud'17; another paper on NFV accepted to IWQoS'17.
+# - 04/2017. Bohr accepted to HotCloud'17; another paper on NFV accepted to IWQoS'17.
 # - 04/2017. Our journal paper on cloud video storage is accepted to ACM TOMPECS.
 # - 03/2017. Our paper on multi-resource load balancing in NFV is accepted to [https://icdcs2017.gatech.edu/ ICDCS'17]. 
 # - 02/2017. [share/zhixiong-nsdi17.pdf NetKernel] is accepted as a poster at [https://www.usenix.org/conference/nsdi17 NSDI'17]. Check us out at Boston!
