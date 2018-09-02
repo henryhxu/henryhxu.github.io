@@ -5,6 +5,7 @@ Please acknowledge properly in your paper, and kindly drop me an email, if you m
 
 == Software
 
+- [https://github.com/NetX-lab/Elasecutor Elasecutor], an elastic executor scheduler for data analytics systems based on Spark.
 - [https://github.com/NetX-lab/RepNet RepNet], an implementation of flow replication based on node.js.
 - [share/ns3-repflow-public.zip NS-3 simulation code for RepFlow] on TCP only, based on the [http://code.nsnam.org/adrian/ns-3-dcn/summary ns-3-dcn branch].
 
