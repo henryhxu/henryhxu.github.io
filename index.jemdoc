@@ -41,13 +41,16 @@ Our research is/was supported by funding from Research Grants Council (RGC) of H
 
 
 == Recent Publications ([papers.html full list])
+- "[ Bohr: Similarity Aware Geo-Distributed Data Analytics]", ACM CoNEXT 2018
+- "[ Elasecutor: Elastic Executor Scheduling in Data Analytics Systems]", ACM SoCC 2018 
+- "[share/xiaoyao-icdcs18.pdf DHL: Enabling Flexible Software Network Functions with FPGA Acceleration]", IEEE ICDCS 2018
 - "[https://dl.acm.org/authorize?N42004 Network Stack as a Service in the Cloud]", ACM HotNets 2017
-- "[https://www.usenix.org/conference/hotcloud17/program/presentation/li Bohr: Similarity Aware Geo-Distributed Data Analytics]", USENIX HotCloud 2017
 - "[share/tao-icdcs17.pdf Multi-Resource Load Balancing for Virtual Network Functions]", IEEE ICDCS 2017
 - "[https://dl.acm.org/authorize?N46565 Expeditus: Distributed Congestion-Aware Load Balancing in Clos Data Center Networks]", ACM SoCC 2016
-- "[share/jiaqi-icnp16.pdf We've Got You Covered: Failure Recovery with Backup Tunnels in Traffic Engineering]", IEEE ICNP 2016
 - "[share/jiaqi-icnp15.pdf Minimizing Transient Congestion during Network Update in Data Centers]" (*Best Paper Award*), IEEE ICNP 2015
-- "[share/hxu-infocom14.pdf RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers]", IEEE INFOCOM 2014
+# - "[https://www.usenix.org/conference/hotcloud17/program/presentation/li Bohr: Similarity Aware Geo-Distributed Data Analytics]", USENIX HotCloud 2017
+# - "[share/jiaqi-icnp16.pdf We've Got You Covered: Failure Recovery with Backup Tunnels in Traffic Engineering]", IEEE ICNP 2016
+# - "[share/hxu-infocom14.pdf RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers]", IEEE INFOCOM 2014
 
 == Prospective Students
 
@@ -60,7 +63,8 @@ I am always looking for bright PhD students to work with me. See [join.html here
 I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulLwRAHrGG4TgatE7v1c/edit?usp=sharing list of top conferences/workshops for networked systems] sorted by their usual deadlines. 
 
 == News
-- 08\/2018. [ Elasecutor] accepted to ACM SoCC'18.
+- 09\/2018. [ Bohr] accepted to ACM CoNEXT'18.
+- 08\/2018. [https://github.com/NetX-lab/Elasecutor Elasecutor] accepted to ACM SoCC'18.
 - 07\/2018. [share/peng-tpds18.pdf Luopan] based on random sampling is accepted to IEEE TPDS.
 - 03\/2018. [share/xiaoyao-icdcs18.pdf DHL], a FPGA-CPU co-design for NFV is accepted to ICDCS'18.
 - 02\/2018. My OVS Orbit interview with Ben Pfaff about [https://netkernel.net/ NetKernel] is [https://ovsorbit.org/ here].
@@ -73,7 +77,7 @@ I maintain a [https://docs.google.com/spreadsheets/d/1l_EC4GGdvmqpH78rrkOFjypulL
 - 06\/2017. Expeditus accepted to IEEE/ACM ToN.
 - 06\/2017. Aemon accepted to [http://conferences.sigcomm.org/events/apnet2017/index.html APNet'17].
 - 05\/2017. [share/yu-turc17.pdf THOR] received best paper award from [http://china.acm.org/TURC/2017/SIGCOMM.html ACM TURC 2017 (Sigcomm China)].
-- 04\/2017. One paper accepted to ACM/IEEE ToN.
+# - 04\/2017. One paper accepted to ACM/IEEE ToN.
 # - 04/2017. Bohr accepted to HotCloud'17; another paper on NFV accepted to IWQoS'17.
 # - 04/2017. Our journal paper on cloud video storage is accepted to ACM TOMPECS.
 # - 03/2017. Our paper on multi-resource load balancing in NFV is accepted to [https://icdcs2017.gatech.edu/ ICDCS'17]. 
