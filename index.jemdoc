@@ -44,10 +44,10 @@ Our research is/was supported by funding from Research Grants Council (RGC) of H
 - "[ Bohr: Similarity Aware Geo-Distributed Data Analytics]", ACM CoNEXT 2018
 - "[ Elasecutor: Elastic Executor Scheduling in Data Analytics Systems]", ACM SoCC 2018 
 - "[share/xiaoyao-icdcs18.pdf DHL: Enabling Flexible Software Network Functions with FPGA Acceleration]", IEEE ICDCS 2018
-- "[https://dl.acm.org/authorize?N42004 Network Stack as a Service in the Cloud]", ACM HotNets 2017
+- "[https://netkernel.net/ Network Stack as a Service in the Cloud]", ACM HotNets 2017  ([https://conferences.sigcomm.org/hotnets/2017/dialogues/dialogue34.pdf HotNets dialogue] between L. Rizzo and J. Rexford)
 - "[share/tao-icdcs17.pdf Multi-Resource Load Balancing for Virtual Network Functions]", IEEE ICDCS 2017
 - "[https://dl.acm.org/authorize?N46565 Expeditus: Distributed Congestion-Aware Load Balancing in Clos Data Center Networks]", ACM SoCC 2016
-- "[share/jiaqi-icnp15.pdf Minimizing Transient Congestion during Network Update in Data Centers]" (*Best Paper Award*), IEEE ICNP 2015
+- "[share/jiaqi-icnp15.pdf Minimizing Transient Congestion during Network Update in Data Centers]", IEEE ICNP 2015  (Best Paper Award)
 # - "[https://www.usenix.org/conference/hotcloud17/program/presentation/li Bohr: Similarity Aware Geo-Distributed Data Analytics]", USENIX HotCloud 2017
 # - "[share/jiaqi-icnp16.pdf We've Got You Covered: Failure Recovery with Backup Tunnels in Traffic Engineering]", IEEE ICNP 2016
 # - "[share/hxu-infocom14.pdf RepFlow: Minimizing Flow Completion Times with Replicated Flows in Data Centers]", IEEE INFOCOM 2014
