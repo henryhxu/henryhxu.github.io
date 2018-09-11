@@ -158,20 +158,20 @@ Hong Xu, Jin Jin, Baochun Li\n
 IEEE Globecom, 2011.
 
 
-== Journal publications
+== Journal publications (in order of acceptance date)
 . [share/peng-tpds18.pdf Luopan: Sampling based Load Balancing in Data Center Networks]\n
 _Peng Wang_, George Trimponias, Hong Xu, Yanhui Geng\n
 IEEE Transactions on Parallel and Distributed Systems, 2018.\n
-. [ C2Net: A Network-Efficient Approach to Collision Counting LSH Similarity Join]\n
+. [https://doi.org/10.1109/TKDE.2018.2836464 C2Net: A Network-Efficient Approach to Collision Counting LSH Similarity Join]\n
 _Hangyu Li_, Sarana Nutanong, Hong Xu, Chenyun Yu, Foryu Ha\n
 IEEE Transactions on Knowledge and Data Engineering, 2018.\n
-. [ THOR: A Scalable Hybrid Switching Architecture for Data Centers]\n
+. [https://doi.org/10.1109/TCOMM.2018.2831200 THOR: A Scalable Hybrid Switching Architecture for Data Centers]\n
 _Xiaoshan Yu_, Hong Xu, Huaxi Gu, Hao Lan\n
 IEEE Transactions on Communications, 2018.\n
-. [ On the Synchronization Bottleneck of OpenStack Swift-Like Cloud Storage Systems]\n
+. [https://doi.org/10.1109/TPDS.2018.2810179 On the Synchronization Bottleneck of OpenStack Swift-Like Cloud Storage Systems]\n
 Mingkang Ruan, Titcheu Thierry, Ennan Zhai, Zhenhua Li, Yao Liu, Jinlong E, Yong Cui, Hong Xu\n
 IEEE Transactions on Parallel and Distributed Systems, 29(9):2059--2074, September 2018.
-. [ RepNet: Cutting Latency with Flow Replication in Data Center Networks]\n
+. [https://doi.org/10.1109/TSC.2018.2793250 RepNet: Cutting Latency with Flow Replication in Data Center Networks]\n
 _Shuhao Liu_, Hong Xu, Libin Liu, Wei Bai, Kai Chen, Zhiping Cai\n
 IEEE Transactions on Services Computing, 2018.
 . [https://dl.acm.org/authorize?N40439 Resource Auto-Scaling and Sparse Content Replication for Video Storage Systems]\n
@@ -186,13 +186,13 @@ IEEE/ACM Transactions on Networking, 25(5):2788--2801, October 2017.\n
 . [share/chen-admm.pdf An Alternating Direction Method Approach to Cloud Traffic Management]\n
 Chen Feng, Hong Xu, Baochun Li\n
 IEEE Transactions on Parallel and Distributed Systems, 28(8):2145--2158, August 2017.
-. [ Congestion-Minimizing Network Update Data Centers]\n
+. [https://doi.org/10.1109/TSC.2016.2631519 Congestion-Minimizing Network Update Data Centers]\n
 _Jiaqi Zheng_, Hong Xu, Guihai Chen, Haipeng Dai, Jie Wu \n
 IEEE Transactions on Services Computing, 2016.
-. [ Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers]\n
+. [https://doi.org/10.1109/TCC.2016.2535201 Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers]\n
 Mohammad A. Islam, Kishwar Ahmed, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren\n
-IEEE Transactions on Cloud Computing, 2016.
-. [ Carbon-Aware Online Control of Geo-Distributed Cloud Services]\n
+IEEE Transactions on Cloud Computing, 6(3):734--746, July--September 2018.
+. [https://doi.org/10.1109/TPDS.2015.2504978 Carbon-Aware Online Control of Geo-Distributed Cloud Services]\n
 Zhi Zhou, Fangming Liu, Ruolan Zou, Jiangchuan Liu, Hong Xu, Hai Jin\n
 IEEE Transactions on Parallel and Distributed Systems, 27(9):2506--2519, September 2016.
 . [share/shuhao-comnet15.pdf Towards Security-Aware Virtual Network Embedding] \n
@@ -204,7 +204,7 @@ IEEE Transactions on Services Computing, 8(5):768--781, September 2015.
 . [share/hxu-tpds14.pdf Temperature Aware Workload Management in Geo-Distributed Datacenters] ([share/hxu-tpds14-supp.pdf Supplementary material])\n
 Hong Xu, Chen Feng, Baochun Li\n
 IEEE Transactions on Parallel and Distributed Systems, 26(6):1743--1753, June 2015.
-. [ An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks]\n
+. [https://doi.org/10.1109/TMC.2013.106 An Optimization Framework for XOR-Assisted Cooperative Relaying in Cellular Networks]\n
 Hong Xu, Baochun Li \n
 IEEE Transactions on Mobile Computing, 13(5):979--991, May 2014.
 . [share/hxu-tcc2013.pdf Dynamic Cloud Pricing for Revenue Maximization] \n
