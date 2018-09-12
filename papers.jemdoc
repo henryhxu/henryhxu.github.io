@@ -17,7 +17,7 @@ _Libin Liu_, Hong Xu\n
 . [share/jiaqi-icnp18.pdf Hermes: Utility-Aware Network Update in Software-defined WANs]\n
 Jiaqi Zheng, Qifang Ma, Chen Tian, Bo Li, Haipeng Dai, Hong Xu, Guihai Chen\n
 IEEE ICNP.\n
-. [share/xiaoyao-icdcs18.pdf DHL: Enabling Flexible Software Network Functions with FPGA Acceleration]\n
+. [share/xiaoyao-icdcs18.pdf DHL: Enabling Flexible Software Network Functions with FPGA Acceleration] [https://github.com/OpenCloudNeXt/DHL (source code)]\n
 Xiaoyao Li, Xiuxiu Wang, Fangming Liu, Hong Xu\n
 IEEE ICDCS.
 . [share/xincai-infocom18.pdf Adaptive VNF Scaling and Flow Routing with Proactive Demand Prediction]\n
