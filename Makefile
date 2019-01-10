@@ -1,4 +1,4 @@
-DOCS=index papers students downloads teaching services bio dcn join
+DOCS=index papers students downloads teaching services bio dcn join 5296
 
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(addprefix ./, $(HDOCS))
