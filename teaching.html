@@ -52,8 +52,8 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-02-19, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-Copyright &copy 2012–2019 <a href="mailto:henry.xu@cityu.edu.hk">Hong Xu</a>.
+Page generated 2020-02-18, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Copyright &copy 2012–2020 <a href="mailto:henry.xu@cityu.edu.hk">Hong Xu</a>.
 </div>
 </div>
 </td>
@@ -67,9 +67,18 @@ Copyright &copy 2012–2019 <a href="mailto:henry.xu@cityu.edu.hk">Hong Xu</a>.
       nonInteraction: null
     }
   });
+    ga('require', 'ipMeta', {
+      apiKey: 'YOUR-IPMETA-API-KEY'
+      serviceProvider: 'dimension1',
+      networkDomain: 'dimension2',
+      networkType: 'dimension3',
+  });
+  ga('ipMeta:loadNetworkFields');
   ga('send', 'pageview');
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 <script async src='autotrack.js'></script>
+<!-- IpMeta must be included after Google Analytics -->
+    <script async src="https://ipmeta.io/plugin.js"></script>
 </body>
 </html>
