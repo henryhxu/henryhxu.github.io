@@ -369,3 +369,9 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
+
+.sm_icon {
+	width: 20px;
+	height: 20px;
+	/* the height is adjusted automatically*/
+}
