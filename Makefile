@@ -10,7 +10,7 @@ docs : $(PHDOCS)
 ./%.html : %.jemdoc MENU
 	# jemdoc -c mysite.conf *.jemdoc
 	# ./jemdoc.py -c mysite.conf -o $@ $<
-	jemdoc -c mysite.conf -o $@ $<
+	./jemdoc -c mysite.conf -o $@ $<
 
 .PHONY : clean
 clean :
