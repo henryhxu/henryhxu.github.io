@@ -340,7 +340,7 @@ img.eqwl {
 }
 
 table {
-	border: 2px solid black;
+	/* border: 0.5px solid lightgray; */
 	border-collapse: collapse;
 }
 
@@ -349,7 +349,8 @@ td {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 	text-align: center;
-	border: 1px solid gray;
+	border: 1px solid #d1d5da;
+	line-height: 1.3;
 }
 
 table + table {
@@ -360,6 +361,9 @@ tr.heading {
 	font-weight: bold;
 	border-bottom: 2px solid black;
 }
+
+#PhD_alum tr:nth-child(even) {background-color: #f6f8fa;}
+#RA_alum tr:nth-child(even) {background-color: #f6f8fa;}
 
 img {
 	border: none;
