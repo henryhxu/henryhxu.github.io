@@ -1,8 +1,8 @@
 /* Default css file for jemdoc. */
 
-table#tlayout {
-	border: none;
-	border-collapse: separate;
+#tlayout {
+	display: grid;
+	grid-template-columns: auto minmax(0, 1fr);
 	background: white;
 }
 
@@ -11,7 +11,6 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
-	width: 880pt;
 }
 
 #layout-menu {
@@ -21,15 +20,8 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: auto;
 	white-space: nowrap;
 	text-align: left;
-	vertical-align: top;
-}
-
-#layout-menu td {
-	background: #f4f4f4;
-	vertical-align: top;
 }
 
 #layout-content {
@@ -39,7 +31,6 @@ body {
 	border: none;
 	background: white;
 	text-align: left;
-	vertical-align: top;
 }
 
 #layout-menu a {
@@ -47,16 +38,16 @@ body {
 	margin-left: 0.5em;
 }
 
-tt {
+code {
 	background: #ffffdd;
 }
 
-pre, tt {
+pre, code {
 	font-size: 90%;
 	font-family: monaco, monospace;
 }
 
-a, a > tt {
+a, a > code {
 	color: #224b8d;
 	text-decoration: none;
 }
@@ -325,22 +316,15 @@ div#toptitle h1, #layout-content div#toptitle h1 {
 	border-bottom: none;
 }
 
-img.eq {
-	padding: 0;
-	padding-left: 0.1em;
-	padding-right: 0.1em;
-	margin: 0;
-}
-
-img.eqwl {
-	padding-left: 2em;
+.eqwl {
+	text-align: center;
 	padding-top: 0.6em;
 	padding-bottom: 0.2em;
 	margin: 0;
 }
 
 table {
-	/* border: 0.5px solid lightgray; */
+	border: 2px solid black;
 	border-collapse: collapse;
 }
 
@@ -349,8 +333,7 @@ td {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 	text-align: center;
-	border: 1px solid #d1d5da;
-	line-height: 1.3;
+	border: 1px solid gray;
 }
 
 table + table {
@@ -362,9 +345,6 @@ tr.heading {
 	border-bottom: 2px solid black;
 }
 
-#PhD_alum tr:nth-child(even) {background-color: #f6f8fa;}
-#RA_alum tr:nth-child(even) {background-color: #f6f8fa;}
-
 img {
 	border: none;
 }
@@ -372,10 +352,4 @@ img {
 table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
-}
-
-.sm_icon {
-	width: 20px;
-	height: 20px;
-	/* the height is adjusted automatically*/
 }
